@@ -1,0 +1,4 @@
+chr	ibsc	type	start	end	a	strand	b	info	width
+chr4H	ibsc	five_prime_UTR	638201783	638201937	.	+	.	Parent=transcript:HORVU4Hr1G087760.1	154
+chr4H	ibsc	CDS	638201938	638202378	.	+	0	ID=CDS:HORVU4Hr1G087760.1;Parent=transcript:HORVU4Hr1G087760.1;protein_id=HORVU4Hr1G087760.1	440
+chr4H	ibsc	three_prime_UTR	638202379	638202868	.	+	.	Parent=transcript:HORVU4Hr1G087760.1	489

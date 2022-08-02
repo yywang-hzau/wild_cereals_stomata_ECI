@@ -1,0 +1,10 @@
+atid	group
+AT1G22770	bhhub
+AT1G01060	bhhub
+AT5G67380	bhhub
+AT1G68050	bhhub
+AT4G08920	bhhub
+AT5G61380	bhhub
+AT1G04400	bhhub
+AT2G25930	bhhub
+AT2G46340	bhhub

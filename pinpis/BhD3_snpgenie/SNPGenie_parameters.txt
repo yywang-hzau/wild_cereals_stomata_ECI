@@ -1,0 +1,9 @@
+SNPGenie parameter log.
+
+MINIMUM ALLELE FREQUENCY: Default used; all SNPs included
+SLIDING WINDOW LENGTH: None
+MULTI-FASTA MODE: Default used; No
+SNP REPORTS: User submitted file: BhD3.vcf
+REFERENCE FASTA FILE: User submitted file: BhD3.fa
+GTF FILE: User submitted file: target_BhD3.gtf
+COMPLEMENT MODE: Yes

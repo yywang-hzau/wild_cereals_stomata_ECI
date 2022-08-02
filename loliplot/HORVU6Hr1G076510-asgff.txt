@@ -1,0 +1,7 @@
+chr	ibsc	type	start	end	a	strand	b	info	width
+chr6H	ibsc	gene	526368434	526370948	.	+	.	ID=gene:HORVU6Hr1G076510;biotype=protein_coding;description=Predicted protein [Source:UniProtKB/TrEMBL%3BAcc:F2DC11];gene_id=HORVU6Hr1G076510;logic_name=ibsc	2514
+chr6H	ibsc	mRNA	526368434	526370948	.	+	.	ID=transcript:HORVU6Hr1G076510.1;Parent=gene:HORVU6Hr1G076510;biotype=protein_coding;transcript_id=HORVU6Hr1G076510.1	2514
+chr6H	ibsc	five_prime_UTR	526368434	526369377	.	+	.	Parent=transcript:HORVU6Hr1G076510.1	943
+chr6H	ibsc	exon	526368434	526370948	.	+	.	Parent=transcript:HORVU6Hr1G076510.1;Name=HORVU6Hr1G076510-E1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=HORVU6Hr1G076510-E1;rank=1	2514
+chr6H	ibsc	CDS	526369378	526370487	.	+	0	ID=CDS:HORVU6Hr1G076510.1;Parent=transcript:HORVU6Hr1G076510.1;protein_id=HORVU6Hr1G076510.1	1109
+chr6H	ibsc	three_prime_UTR	526370488	526370948	.	+	.	Parent=transcript:HORVU6Hr1G076510.1	460

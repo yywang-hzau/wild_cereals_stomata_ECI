@@ -1,0 +1,9 @@
+SNPGenie parameter log.
+
+MINIMUM ALLELE FREQUENCY: Default used; all SNPs included
+SLIDING WINDOW LENGTH: None
+MULTI-FASTA MODE: Default used; No
+SNP REPORTS: User submitted file: Chr01.vcf
+REFERENCE FASTA FILE: User submitted file: Chr01.fa
+GTF FILE: User submitted file: target_Chr01.gtf
+COMPLEMENT MODE: Yes

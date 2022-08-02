@@ -1,0 +1,1 @@
+temp_vcf4_SM_AS40.vcf	NA	NA	Does not contain the standard VCF column header "CHROM". Wrong --vcfformat specified? SNPGenie terminated.

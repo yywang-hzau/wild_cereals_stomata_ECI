@@ -1,0 +1,9 @@
+SNPGenie parameter log.
+
+MINIMUM ALLELE FREQUENCY: Default used; all SNPs included
+SLIDING WINDOW LENGTH: None
+MULTI-FASTA MODE: Default used; No
+SNP REPORTS: User submitted file: BhS4_revcom.vcf
+REFERENCE FASTA FILE: User submitted file: BhS4_revcom.fasta
+GTF FILE: User submitted file: target_BhS4_revcom.gtf
+COMPLEMENT MODE: Yes

@@ -1,0 +1,6 @@
+chr2H	ibsc	gene	362536459	362537395	.	-	.	ID=gene:HORVU2Hr1G056800;biotype=protein_coding;description=Sulfotransferase [Source:UniProtKB/TrEMBL%3BAcc:A0A287I2S0];gene_id=HORVU2Hr1G056800;logic_name=ibsc
+chr2H	ibsc	mRNA	362536459	362537395	.	-	.	ID=transcript:HORVU2Hr1G056800.1;Parent=gene:HORVU2Hr1G056800;biotype=protein_coding;transcript_id=HORVU2Hr1G056800.1
+chr2H	ibsc	three_prime_UTR	362536459	362536459	.	-	.	Parent=transcript:HORVU2Hr1G056800.1
+chr2H	ibsc	exon	362536459	362537395	.	-	.	Parent=transcript:HORVU2Hr1G056800.1;Name=HORVU2Hr1G056800-E1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=HORVU2Hr1G056800-E1;rank=1
+chr2H	ibsc	CDS	362536460	362536945	.	-	0	ID=CDS:HORVU2Hr1G056800.1;Parent=transcript:HORVU2Hr1G056800.1;protein_id=HORVU2Hr1G056800.1
+chr2H	ibsc	five_prime_UTR	362536946	362537395	.	-	.	Parent=transcript:HORVU2Hr1G056800.1

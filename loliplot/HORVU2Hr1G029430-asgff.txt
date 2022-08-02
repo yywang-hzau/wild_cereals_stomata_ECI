@@ -1,0 +1,16 @@
+chr	ibsc	type	start	end	a	strand	b	info	width
+chr2H	ibsc	gene	104974251	104975280	.	+	.	ID=gene:HORVU2Hr1G029430;biotype=protein_coding;gene_id=HORVU2Hr1G029430;logic_name=ibsc	1029
+chr2H	ibsc	mRNA	104974251	104974857	.	+	.	ID=transcript:HORVU2Hr1G029430.1;Parent=gene:HORVU2Hr1G029430;biotype=protein_coding;transcript_id=HORVU2Hr1G029430.1	606
+chr2H	ibsc	five_prime_UTR	104974251	104974251	.	+	.	Parent=transcript:HORVU2Hr1G029430.1	0
+chr2H	ibsc	exon	104974251	104974589	.	+	.	Parent=transcript:HORVU2Hr1G029430.1;Name=HORVU2Hr1G029430-E1;constitutive=0;ensembl_end_phase=2;ensembl_phase=-1;exon_id=HORVU2Hr1G029430-E1;rank=1	338
+chr2H	ibsc	CDS	104974252	104974589	.	+	0	ID=CDS:HORVU2Hr1G029430.1;Parent=transcript:HORVU2Hr1G029430.1;protein_id=HORVU2Hr1G029430.1	337
+chr2H	ibsc	CDS	104974706	104974856	.	+	1	ID=CDS:HORVU2Hr1G029430.1;Parent=transcript:HORVU2Hr1G029430.1;protein_id=HORVU2Hr1G029430.1	150
+chr2H	ibsc	exon	104974706	104974857	.	+	.	Parent=transcript:HORVU2Hr1G029430.1;Name=HORVU2Hr1G029430-E2;constitutive=0;ensembl_end_phase=-1;ensembl_phase=2;exon_id=HORVU2Hr1G029430-E2;rank=2	151
+chr2H	ibsc	three_prime_UTR	104974857	104974857	.	+	.	Parent=transcript:HORVU2Hr1G029430.1	0
+chr2H	ibsc	mRNA	104974255	104975280	.	+	.	ID=transcript:HORVU2Hr1G029430.2;Parent=gene:HORVU2Hr1G029430;biotype=protein_coding;transcript_id=HORVU2Hr1G029430.2	1025
+chr2H	ibsc	five_prime_UTR	104974255	104974256	.	+	.	Parent=transcript:HORVU2Hr1G029430.2	1
+chr2H	ibsc	exon	104974255	104974588	.	+	.	Parent=transcript:HORVU2Hr1G029430.2;Name=HORVU2Hr1G029430-E1-1;constitutive=0;ensembl_end_phase=2;ensembl_phase=-1;exon_id=HORVU2Hr1G029430-E1-1;rank=1	333
+chr2H	ibsc	CDS	104974257	104974588	.	+	0	ID=CDS:HORVU2Hr1G029430.2;Parent=transcript:HORVU2Hr1G029430.2;protein_id=HORVU2Hr1G029430.2	331
+chr2H	ibsc	CDS	104974706	104975108	.	+	1	ID=CDS:HORVU2Hr1G029430.2;Parent=transcript:HORVU2Hr1G029430.2;protein_id=HORVU2Hr1G029430.2	402
+chr2H	ibsc	exon	104974706	104975280	.	+	.	Parent=transcript:HORVU2Hr1G029430.2;Name=HORVU2Hr1G029430-E2-1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=2;exon_id=HORVU2Hr1G029430-E2-1;rank=2	574
+chr2H	ibsc	three_prime_UTR	104975109	104975280	.	+	.	Parent=transcript:HORVU2Hr1G029430.2	171

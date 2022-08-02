@@ -1,0 +1,27 @@
+chr4H	ibsc	gene	629184972	629263041	.	+	.	ID=gene:HORVU4Hr1G084510;biotype=protein_coding;description=Predicted protein [Source:UniProtKB/TrEMBL%3BAcc:F2D5W1];gene_id=HORVU4Hr1G084510;logic_name=ibsc
+chr4H	ibsc	mRNA	629184972	629262733	.	+	.	ID=transcript:HORVU4Hr1G084510.1;Parent=gene:HORVU4Hr1G084510;biotype=protein_coding;transcript_id=HORVU4Hr1G084510.1
+chr4H	ibsc	five_prime_UTR	629184972	629184973	.	+	.	Parent=transcript:HORVU4Hr1G084510.1
+chr4H	ibsc	exon	629184972	629184994	.	+	.	Parent=transcript:HORVU4Hr1G084510.1;Name=HORVU4Hr1G084510-E1-1-1;constitutive=0;ensembl_end_phase=0;ensembl_phase=-1;exon_id=HORVU4Hr1G084510-E1-1-1;rank=1
+chr4H	ibsc	CDS	629184974	629184994	.	+	0	ID=CDS:HORVU4Hr1G084510.1;Parent=transcript:HORVU4Hr1G084510.1;protein_id=HORVU4Hr1G084510.1
+chr4H	ibsc	CDS	629260269	629262503	.	+	0	ID=CDS:HORVU4Hr1G084510.1;Parent=transcript:HORVU4Hr1G084510.1;protein_id=HORVU4Hr1G084510.1
+chr4H	ibsc	exon	629260269	629262733	.	+	.	Parent=transcript:HORVU4Hr1G084510.1;Name=HORVU4Hr1G084510-E2-1-1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=HORVU4Hr1G084510-E2-1-1;rank=2
+chr4H	ibsc	three_prime_UTR	629262504	629262733	.	+	.	Parent=transcript:HORVU4Hr1G084510.1
+chr4H	ibsc	mRNA	629259586	629263041	.	+	.	ID=transcript:HORVU4Hr1G084510.2;Parent=gene:HORVU4Hr1G084510;biotype=protein_coding;transcript_id=HORVU4Hr1G084510.2
+chr4H	ibsc	five_prime_UTR	629259586	629259881	.	+	.	Parent=transcript:HORVU4Hr1G084510.2
+chr4H	ibsc	exon	629259586	629263041	.	+	.	Parent=transcript:HORVU4Hr1G084510.2;Name=HORVU4Hr1G084510-E1-1-3;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=HORVU4Hr1G084510-E1-1-3;rank=1
+chr4H	ibsc	CDS	629259882	629262503	.	+	0	ID=CDS:HORVU4Hr1G084510.2;Parent=transcript:HORVU4Hr1G084510.2;protein_id=HORVU4Hr1G084510.2
+chr4H	ibsc	three_prime_UTR	629262504	629263041	.	+	.	Parent=transcript:HORVU4Hr1G084510.2
+chr4H	ibsc	mRNA	629259833	629262678	.	+	.	ID=transcript:HORVU4Hr1G084510.3;Parent=gene:HORVU4Hr1G084510;biotype=protein_coding;transcript_id=HORVU4Hr1G084510.3
+chr4H	ibsc	five_prime_UTR	629259833	629259833	.	+	.	Parent=transcript:HORVU4Hr1G084510.3
+chr4H	ibsc	exon	629259833	629260058	.	+	.	Parent=transcript:HORVU4Hr1G084510.3;Name=HORVU4Hr1G084510-E1;constitutive=0;ensembl_end_phase=0;ensembl_phase=-1;exon_id=HORVU4Hr1G084510-E1;rank=1
+chr4H	ibsc	CDS	629259834	629260058	.	+	0	ID=CDS:HORVU4Hr1G084510.3;Parent=transcript:HORVU4Hr1G084510.3;protein_id=HORVU4Hr1G084510.3
+chr4H	ibsc	CDS	629260785	629262503	.	+	0	ID=CDS:HORVU4Hr1G084510.3;Parent=transcript:HORVU4Hr1G084510.3;protein_id=HORVU4Hr1G084510.3
+chr4H	ibsc	exon	629260785	629262678	.	+	.	Parent=transcript:HORVU4Hr1G084510.3;Name=HORVU4Hr1G084510-E2;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=HORVU4Hr1G084510-E2;rank=2
+chr4H	ibsc	three_prime_UTR	629262504	629262678	.	+	.	Parent=transcript:HORVU4Hr1G084510.3
+chr4H	ibsc	mRNA	629260236	629262503	.	+	.	ID=transcript:HORVU4Hr1G084510.4;Parent=gene:HORVU4Hr1G084510;biotype=protein_coding;transcript_id=HORVU4Hr1G084510.4
+chr4H	ibsc	exon	629260236	629261215	.	+	.	Parent=transcript:HORVU4Hr1G084510.4;Name=HORVU4Hr1G084510-E1-1-2;constitutive=0;ensembl_end_phase=2;ensembl_phase=0;exon_id=HORVU4Hr1G084510-E1-1-2;rank=1
+chr4H	ibsc	CDS	629260236	629261215	.	+	0	ID=CDS:HORVU4Hr1G084510.4;Parent=transcript:HORVU4Hr1G084510.4;protein_id=HORVU4Hr1G084510.4
+chr4H	ibsc	exon	629261291	629262365	.	+	.	Parent=transcript:HORVU4Hr1G084510.4;Name=HORVU4Hr1G084510-E2-1-2;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=HORVU4Hr1G084510-E2-1-2;rank=2
+chr4H	ibsc	CDS	629261291	629262365	.	+	1	ID=CDS:HORVU4Hr1G084510.4;Parent=transcript:HORVU4Hr1G084510.4;protein_id=HORVU4Hr1G084510.4
+chr4H	ibsc	exon	629262426	629262503	.	+	.	Parent=transcript:HORVU4Hr1G084510.4;Name=HORVU4Hr1G084510-E3;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=HORVU4Hr1G084510-E3;rank=3
+chr4H	ibsc	CDS	629262426	629262503	.	+	0	ID=CDS:HORVU4Hr1G084510.4;Parent=transcript:HORVU4Hr1G084510.4;protein_id=HORVU4Hr1G084510.4

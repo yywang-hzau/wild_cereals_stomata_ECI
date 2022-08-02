@@ -1,0 +1,1 @@
+temp_vcf4_SM_ES23.vcf	NA	NA	VCF file temp_vcf4_SM_ES23.vcf contains AD but not DP data. SNPGenie terminated.

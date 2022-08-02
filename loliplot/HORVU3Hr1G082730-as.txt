@@ -1,0 +1,24 @@
+chr3H	ibsc	gene	600262542	600275064	.	+	.	ID=gene:HORVU3Hr1G082730;biotype=protein_coding;description=Predicted protein [Source:UniProtKB/TrEMBL%3BAcc:F2D5M3];gene_id=HORVU3Hr1G082730;logic_name=ibsc
+chr3H	ibsc	mRNA	600262542	600275064	.	+	.	ID=transcript:HORVU3Hr1G082730.1;Parent=gene:HORVU3Hr1G082730;biotype=protein_coding;transcript_id=HORVU3Hr1G082730.1
+chr3H	ibsc	five_prime_UTR	600262542	600262629	.	+	.	Parent=transcript:HORVU3Hr1G082730.1
+chr3H	ibsc	exon	600262542	600262842	.	+	.	Parent=transcript:HORVU3Hr1G082730.1;Name=HORVU3Hr1G082730-E1;constitutive=0;ensembl_end_phase=0;ensembl_phase=-1;exon_id=HORVU3Hr1G082730-E1;rank=1
+chr3H	ibsc	CDS	600262630	600262842	.	+	0	ID=CDS:HORVU3Hr1G082730.1;Parent=transcript:HORVU3Hr1G082730.1;protein_id=HORVU3Hr1G082730.1
+chr3H	ibsc	exon	600262954	600263067	.	+	.	Parent=transcript:HORVU3Hr1G082730.1;Name=HORVU3Hr1G082730-E2;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=HORVU3Hr1G082730-E2;rank=2
+chr3H	ibsc	CDS	600262954	600263067	.	+	0	ID=CDS:HORVU3Hr1G082730.1;Parent=transcript:HORVU3Hr1G082730.1;protein_id=HORVU3Hr1G082730.1
+chr3H	ibsc	exon	600264689	600264932	.	+	.	Parent=transcript:HORVU3Hr1G082730.1;Name=HORVU3Hr1G082730-E3;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=HORVU3Hr1G082730-E3;rank=3
+chr3H	ibsc	CDS	600264689	600264932	.	+	0	ID=CDS:HORVU3Hr1G082730.1;Parent=transcript:HORVU3Hr1G082730.1;protein_id=HORVU3Hr1G082730.1
+chr3H	ibsc	CDS	600265031	600265275	.	+	2	ID=CDS:HORVU3Hr1G082730.1;Parent=transcript:HORVU3Hr1G082730.1;protein_id=HORVU3Hr1G082730.1
+chr3H	ibsc	exon	600265031	600265437	.	+	.	Parent=transcript:HORVU3Hr1G082730.1;Name=HORVU3Hr1G082730-E4;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=HORVU3Hr1G082730-E4;rank=4
+chr3H	ibsc	three_prime_UTR	600265276	600265437	.	+	.	Parent=transcript:HORVU3Hr1G082730.1
+chr3H	ibsc	exon	600274979	600275064	.	+	.	Parent=transcript:HORVU3Hr1G082730.1;Name=HORVU3Hr1G082730-E5;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=HORVU3Hr1G082730-E5;rank=5
+chr3H	ibsc	three_prime_UTR	600274979	600275064	.	+	.	Parent=transcript:HORVU3Hr1G082730.1
+chr3H	ibsc	mRNA	600262663	600265275	.	+	.	ID=transcript:HORVU3Hr1G082730.2;Parent=gene:HORVU3Hr1G082730;biotype=protein_coding;transcript_id=HORVU3Hr1G082730.2
+chr3H	ibsc	five_prime_UTR	600262663	600262664	.	+	.	Parent=transcript:HORVU3Hr1G082730.2
+chr3H	ibsc	exon	600262663	600262850	.	+	.	Parent=transcript:HORVU3Hr1G082730.2;Name=HORVU3Hr1G082730-E1-1;constitutive=0;ensembl_end_phase=0;ensembl_phase=-1;exon_id=HORVU3Hr1G082730-E1-1;rank=1
+chr3H	ibsc	CDS	600262665	600262850	.	+	0	ID=CDS:HORVU3Hr1G082730.2;Parent=transcript:HORVU3Hr1G082730.2;protein_id=HORVU3Hr1G082730.2
+chr3H	ibsc	exon	600262954	600263067	.	+	.	Parent=transcript:HORVU3Hr1G082730.2;Name=HORVU3Hr1G082730-E2;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=HORVU3Hr1G082730-E2;rank=2
+chr3H	ibsc	CDS	600262954	600263067	.	+	0	ID=CDS:HORVU3Hr1G082730.2;Parent=transcript:HORVU3Hr1G082730.2;protein_id=HORVU3Hr1G082730.2
+chr3H	ibsc	exon	600264689	600264932	.	+	.	Parent=transcript:HORVU3Hr1G082730.2;Name=HORVU3Hr1G082730-E3;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=HORVU3Hr1G082730-E3;rank=3
+chr3H	ibsc	CDS	600264689	600264932	.	+	0	ID=CDS:HORVU3Hr1G082730.2;Parent=transcript:HORVU3Hr1G082730.2;protein_id=HORVU3Hr1G082730.2
+chr3H	ibsc	exon	600265031	600265275	.	+	.	Parent=transcript:HORVU3Hr1G082730.2;Name=HORVU3Hr1G082730-E4-1;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=HORVU3Hr1G082730-E4-1;rank=4
+chr3H	ibsc	CDS	600265031	600265275	.	+	2	ID=CDS:HORVU3Hr1G082730.2;Parent=transcript:HORVU3Hr1G082730.2;protein_id=HORVU3Hr1G082730.2

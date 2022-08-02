@@ -1,0 +1,388 @@
+	id1	atid	ENZYME	SYMBOL	Author	Detection Method	Detection Method ID	interaction	Interaction Type	id2	Primary Interaction Type	Publication DB	Publication ID	selected	shared interaction	shared name	Source Database
+0	836873	AT5G67380	2.7.11.1	CKA1	Sugano S (1999)	enzymatic study	MI:0415	265127	direct interaction	839341	direct interaction	pubmed	10535927	FALSE	265127	836873 (265127) 839341	psi-mi
+1	836873	AT5G67380	2.7.11.1	CKA1	Sugano S (1998)	enzymatic study	MI:0415	265110	direct interaction	819296	direct interaction	pubmed	9724822	FALSE	265110	836873 (265110) 819296	psi-mi
+2	839341	AT1G01060		LHY1	Mizoguchi T (2005)	genetic interference	MI:0254	265664	synthetic genetic interaction defined by inequality	838883	synthetic genetic interaction defined by inequality	pubmed	16006578	FALSE	265664	839341 (265664) 838883	psi-mi
+3	839341	AT1G01060		LHY1	Mizoguchi T (2005)	genetic interference	MI:0254	265667	suppressive genetic interaction defined by inequality	838883	suppressive genetic interaction defined by inequality	pubmed	16006578	FALSE	265667	839341 (265667) 838883	psi-mi
+4	839341	AT1G01060		LHY1	Ding Z (2007)	genetic interference	MI:0254	265112	additive genetic interaction defined by inequality	836259	additive genetic interaction defined by inequality	pubmed	17483414	FALSE	265112	839341 (265112) 836259	psi-mi
+5	839341	AT1G01060		LHY1	Ding Z (2007)	genetic interference	MI:0254	265116	suppressive genetic interaction defined by inequality	836259	suppressive genetic interaction defined by inequality	pubmed	17483414	FALSE	265116	839341 (265116) 836259	psi-mi
+6	839341	AT1G01060		LHY1	Niwa Y (2007)	genetic interference	MI:0254	265694	suppressive genetic interaction defined by inequality	836259	suppressive genetic interaction defined by inequality	pubmed	17540692	FALSE	265694	839341 (265694) 836259	psi-mi
+7	839341	AT1G01060		LHY1	Niwa Y (2007)	genetic interference	MI:0254	265697	additive genetic interaction defined by inequality	836259	additive genetic interaction defined by inequality	pubmed	17540692	FALSE	265697	839341 (265697) 836259	psi-mi
+8	839341	AT1G01060		LHY1	Ito S (2007)	genetic interference	MI:0254	265700	suppressive genetic interaction defined by inequality	836259	suppressive genetic interaction defined by inequality	pubmed	17519251	FALSE	265700	839341 (265700) 836259	psi-mi
+9	839341	AT1G01060		LHY1	Lu SX (2009)	affinity chromatography technology	MI:0004	1521038	physical association	839341	physical association	pubmed	19218364	FALSE	1521038	839341 (1521038) 839341	psi-mi
+10	839341	AT1G01060		LHY1	Ding Z (2007)	genetic interference	MI:0254	265111	additive genetic interaction defined by inequality	819296	additive genetic interaction defined by inequality	pubmed	17483414	FALSE	265111	839341 (265111) 819296	psi-mi
+11	839341	AT1G01060		LHY1	Mizoguchi T (2002)	genetic interference	MI:0254	265121	additive genetic interaction defined by inequality	819296	additive genetic interaction defined by inequality	pubmed	12015970	FALSE	265121	839341 (265121) 819296	psi-mi
+12	839341	AT1G01060		LHY1	Sugano S (1999)	pull down	MI:0096	265126	direct interaction	825196	direct interaction	pubmed	10535927	FALSE	265126	839341 (265126) 825196	psi-mi
+13	839341	AT1G01060		LHY1	Niwa Y (2007)	genetic interference	MI:0254	265692	additive genetic interaction defined by inequality	819296	additive genetic interaction defined by inequality	pubmed	17540692	FALSE	265692	839341 (265692) 819296	psi-mi
+14	839341	AT1G01060		LHY1	Nakamichi N (2007)	genetic interference	MI:0254	265711	additive genetic interaction defined by inequality	819296	additive genetic interaction defined by inequality	pubmed	17504813	FALSE	265711	839341 (265711) 819296	psi-mi
+15	839341	AT1G01060		LHY1	Ding Z (2007)	genetic interference	MI:0254	265720	additive genetic interaction defined by inequality	821807	additive genetic interaction defined by inequality	pubmed	17496120	FALSE	265720	839341 (265720) 821807	psi-mi
+16	839341	AT1G01060		LHY1	Giraud E (2010)	affinity chromatography technology	MI:0004	482883	physical association	827568	physical association	pubmed	21183706	FALSE	482883	839341 (482883) 827568	psi-mi
+17	839341	AT1G01060		LHY1	Lu SX (2009)	affinity chromatography technology	MI:0004	1521036	physical association	819296	physical association	pubmed	19218364	FALSE	1521036	839341 (1521036) 819296	psi-mi
+18	839341	AT1G01060		LHY1	Lu SX (2009)	biochemical	MI:0401	1521039	colocalization	819296	colocalization	pubmed	19218364	FALSE	1521039	839341 (1521039) 819296	psi-mi
+19	826470	AT4G08920		CRY1	Liu B (2011)	two hybrid	MI:0018	532184	direct interaction	819242	direct interaction	pubmed	21511871	FALSE	532184	826470 (532184) 819242	psi-mi
+20	826470	AT4G08920		CRY1	Liu B (2011)	affinity chromatography technology	MI:0004	532185	physical association	819242	physical association	pubmed	21511871	FALSE	532185	826470 (532185) 819242	psi-mi
+21	826470	AT4G08920		CRY1	Lian HL (2011)	two hybrid	MI:0018	1115632	direct interaction	819242	direct interaction	pubmed	21511872	FALSE	1115632	826470 (1115632) 819242	psi-mi
+22	826470	AT4G08920		CRY1	Lian HL (2011)	affinity chromatography technology	MI:0004	1115633	physical association	819242	physical association	pubmed	21511872	FALSE	1115633	826470 (1115633) 819242	psi-mi
+23	826470	AT4G08920		CRY1	Sang Y (2005)	two hybrid	MI:0018	336348	direct interaction	826470	direct interaction	pubmed	15805487	FALSE	336348	826470 (336348) 826470	psi-mi
+24	826470	AT4G08920		CRY1	Sang Y (2005)	pull down	MI:0096	336352	direct interaction	826470	direct interaction	pubmed	15805487	FALSE	336352	826470 (336352) 826470	psi-mi
+25	826470	AT4G08920		CRY1	Sang Y (2005)	affinity chromatography technology	MI:0004	336354	physical association	826470	physical association	pubmed	15805487	FALSE	336354	826470 (336354) 826470	psi-mi
+26	826470	AT4G08920		CRY1	Ozguer S (2006)	enzymatic study	MI:0415	281112	direct interaction	826470	direct interaction	pubmed	17073458	FALSE	281112	826470 (281112) 826470	psi-mi
+27	826470	AT4G08920		CRY1	Yang HQ (2001)	two hybrid	MI:0018	268638	direct interaction	817857	direct interaction	pubmed	11752373	FALSE	268638	826470 (268638) 817857	psi-mi
+28	826470	AT4G08920		CRY1	Yang HQ (2001)	pull down	MI:0096	268641	direct interaction	817857	direct interaction	pubmed	11752373	FALSE	268641	826470 (268641) 817857	psi-mi
+29	826470	AT4G08920		CRY1	Yang HQ (2001)	affinity chromatography technology	MI:0004	268642	physical association	817857	physical association	pubmed	11752373	FALSE	268642	826470 (268642) 817857	psi-mi
+30	826470	AT4G08920		CRY1	Liu Y (2014)	affinity chromatography technology	MI:0004	1104546	physical association	817857	physical association	pubmed	24554768	FALSE	1104546	826470 (1104546) 817857	psi-mi
+31	826470	AT4G08920		CRY1	Liu Y (2014)	imaging technique	MI:0428	1104547	colocalization	817857	colocalization	pubmed	24554768	FALSE	1104547	826470 (1104547) 817857	psi-mi
+32	826470	AT4G08920		CRY1	Hughes RM (2012)	pull down	MI:0096	657511	direct interaction	816394	direct interaction	pubmed	22577138	FALSE	657511	826470 (657511) 816394	psi-mi
+33	819242	AT2G46340		SPA1	Hughes RM (2012)	two hybrid	MI:0018	657513	direct interaction	826470	direct interaction	pubmed	22577138	FALSE	657513	819242 (657513) 826470	psi-mi
+34	819242	AT2G46340		SPA1	Lian HL (2011)	two hybrid	MI:0018	1115635	direct interaction	839529	direct interaction	pubmed	21511872	FALSE	1115635	819242 (1115635) 839529	psi-mi
+35	819242	AT2G46340		SPA1	Zhu D (2008)	pull down	MI:0096	299863	direct interaction	819242	direct interaction	pubmed	18812498	FALSE	299863	819242 (299863) 819242	psi-mi
+36	819242	AT2G46340		SPA1	Zhu D (2008)	protein complementation assay	MI:0090	299879	direct interaction	819242	direct interaction	pubmed	18812498	FALSE	299879	819242 (299879) 819242	psi-mi
+37	819242	AT2G46340		SPA1	Zhu D (2008)	affinity chromatography technology	MI:0004	299880	physical association	819242	physical association	pubmed	18812498	FALSE	299880	819242 (299880) 819242	psi-mi
+38	819242	AT2G46340		SPA1	Laubinger S (2006)	pull down	MI:0096	268365	direct interaction	831441	direct interaction	pubmed	16854975	FALSE	268365	819242 (268365) 831441	psi-mi
+39	819242	AT2G46340		SPA1	Laubinger S (2006)	fluorescent resonance energy transfer	MI:0055	268369	direct interaction	831441	direct interaction	pubmed	16854975	FALSE	268369	819242 (268369) 831441	psi-mi
+40	819242	AT2G46340		SPA1	Saijo Y (2003)	biochemical	MI:0401	268621	colocalization	817857	colocalization	pubmed	14597662	FALSE	268621	819242 (268621) 817857	psi-mi
+41	819242	AT2G46340		SPA1	Saijo Y (2003)	affinity chromatography technology	MI:0004	268622	physical association	817857	physical association	pubmed	14597662	FALSE	268622	819242 (268622) 817857	psi-mi
+42	819242	AT2G46340		SPA1	Hoecker U (2001)	pull down	MI:0096	268653	direct interaction	817857	direct interaction	pubmed	11461903	FALSE	268653	819242 (268653) 817857	psi-mi
+43	819242	AT2G46340		SPA1	Saijo Y (2008)	affinity chromatography technology	MI:0004	289211	physical association	817857	physical association	pubmed	18722184	FALSE	289211	819242 (289211) 817857	psi-mi
+44	819242	AT2G46340		SPA1	Zhu D (2008)	pull down	MI:0096	299864	direct interaction	826712	direct interaction	pubmed	18812498	FALSE	299864	819242 (299864) 826712	psi-mi
+45	819242	AT2G46340		SPA1	Zhu D (2008)	pull down	MI:0096	299865	direct interaction	820767	direct interaction	pubmed	18812498	FALSE	299865	819242 (299865) 820767	psi-mi
+46	819242	AT2G46340		SPA1	Zhu D (2008)	pull down	MI:0096	299866	direct interaction	841743	direct interaction	pubmed	18812498	FALSE	299866	819242 (299866) 841743	psi-mi
+47	819242	AT2G46340		SPA1	Zhu D (2008)	affinity chromatography technology	MI:0004	299884	physical association	826712	physical association	pubmed	18812498	FALSE	299884	819242 (299884) 826712	psi-mi
+48	819242	AT2G46340		SPA1	Zhu D (2008)	affinity chromatography technology	MI:0004	299885	physical association	820767	physical association	pubmed	18812498	FALSE	299885	819242 (299885) 820767	psi-mi
+49	819242	AT2G46340		SPA1	Zhu D (2008)	affinity chromatography technology	MI:0004	299886	physical association	841743	physical association	pubmed	18812498	FALSE	299886	819242 (299886) 841743	psi-mi
+50	819242	AT2G46340		SPA1	Zhu D (2008)	affinity chromatography technology	MI:0004	299887	physical association	817857	physical association	pubmed	18812498	FALSE	299887	819242 (299887) 817857	psi-mi
+51	819242	AT2G46340		SPA1	Zhu D (2008)	biochemical	MI:0401	299900	colocalization	826712	colocalization	pubmed	18812498	FALSE	299900	819242 (299900) 826712	psi-mi
+52	819242	AT2G46340		SPA1	Zhu D (2008)	biochemical	MI:0401	299901	colocalization	820767	colocalization	pubmed	18812498	FALSE	299901	819242 (299901) 820767	psi-mi
+53	819242	AT2G46340		SPA1	Zhu D (2008)	biochemical	MI:0401	299902	colocalization	841743	colocalization	pubmed	18812498	FALSE	299902	819242 (299902) 841743	psi-mi
+54	819242	AT2G46340		SPA1	Zhu D (2008)	biochemical	MI:0401	299903	colocalization	817857	colocalization	pubmed	18812498	FALSE	299903	819242 (299903) 817857	psi-mi
+55	819242	AT2G46340		SPA1	Huang X (2013)	affinity chromatography technology	MI:0004	906234	physical association	817857	physical association	pubmed	24067658	FALSE	906234	819242 (906234) 817857	psi-mi
+56	819242	AT2G46340		SPA1	Lian HL (2011)	affinity chromatography technology	MI:0004	1115634	physical association	817857	physical association	pubmed	21511872	FALSE	1115634	819242 (1115634) 817857	psi-mi
+57	819242	AT2G46340		SPA1	Sheerin DJ (2015)	affinity chromatography technology	MI:0004	1115929	physical association	837483	physical association	pubmed	25627066	FALSE	1115929	819242 (1115929) 837483	psi-mi
+58	819242	AT2G46340		SPA1	Lu XD (2015)	two hybrid	MI:0018	1241674	direct interaction	816394	direct interaction	pubmed	25744387	FALSE	1241674	819242 (1241674) 816394	psi-mi
+59	819242	AT2G46340		SPA1	Lu XD (2015)	two hybrid	MI:0018	1241675	direct interaction	837483	direct interaction	pubmed	25744387	FALSE	1241675	819242 (1241675) 837483	psi-mi
+60	819242	AT2G46340		SPA1	Lu XD (2015)	protein complementation assay	MI:0090	1241676	direct interaction	816394	direct interaction	pubmed	25744387	FALSE	1241676	819242 (1241676) 816394	psi-mi
+61	819242	AT2G46340		SPA1	Lu XD (2015)	protein complementation assay	MI:0090	1241677	direct interaction	837483	direct interaction	pubmed	25744387	FALSE	1241677	819242 (1241677) 837483	psi-mi
+62	819242	AT2G46340		SPA1	Lu XD (2015)	genetic interference	MI:0254	1241678	additive genetic interaction defined by inequality	816394	additive genetic interaction defined by inequality	pubmed	25744387	FALSE	1241678	819242 (1241678) 816394	psi-mi
+63	819242	AT2G46340		SPA1	Lu XD (2015)	genetic interference	MI:0254	1241679	additive genetic interaction defined by inequality	837483	additive genetic interaction defined by inequality	pubmed	25744387	FALSE	1241679	819242 (1241679) 837483	psi-mi
+64	819242	AT2G46340		SPA1	Lu XD (2015)	affinity chromatography technology	MI:0004	1241680	physical association	817857	physical association	pubmed	25744387	FALSE	1241680	819242 (1241680) 817857	psi-mi
+65	819242	AT2G46340		SPA1	Lu XD (2015)	two hybrid	MI:0018	1241681	direct interaction	817857	direct interaction	pubmed	25744387	FALSE	1241681	819242 (1241681) 817857	psi-mi
+66	819242	AT2G46340		SPA1	Zheng X (2013)	affinity chromatography technology	MI:0004	817114	physical association	816394	physical association	pubmed	23371951	FALSE	817114	819242 (817114) 816394	psi-mi
+67	819242	AT2G46340		SPA1	Zheng X (2013)	two hybrid	MI:0018	817115	direct interaction	816394	direct interaction	pubmed	23371951	FALSE	817115	819242 (817115) 816394	psi-mi
+68	819242	AT2G46340		SPA1	Hajdu A (2015)	two hybrid	MI:0018	1442503	direct interaction	816394	direct interaction	pubmed	26120968	FALSE	1442503	819242 (1442503) 816394	psi-mi
+69	819242	AT2G46340		SPA1	Xu X (2014)	affinity chromatography technology	MI:0004	1415204	physical association	816538	physical association	pubmed	24858936	FALSE	1415204	819242 (1415204) 816538	psi-mi
+70	838883	AT1G22770		FB	Sawa M (2007)	affinity chromatography technology	MI:0004	265095	physical association	843133	physical association	pubmed	17872410	FALSE	265095	838883 (265095) 843133	psi-mi
+71	838883	AT1G22770		FB	Sawa M (2007)	pull down	MI:0096	265097	direct interaction	843133	direct interaction	pubmed	17872410	FALSE	265097	838883 (265097) 843133	psi-mi
+72	838883	AT1G22770		FB	Martin-Tryon EL (2007)	genetic interference	MI:0254	265672	additive genetic interaction defined by inequality	836259	additive genetic interaction defined by inequality	pubmed	17098855	FALSE	265672	838883 (265672) 836259	psi-mi
+73	838883	AT1G22770		FB	Kim WY (2007)	two hybrid	MI:0018	265043	direct interaction	835842	direct interaction	pubmed	17704763	FALSE	265043	838883 (265043) 835842	psi-mi
+74	838883	AT1G22770		FB	Kim WY (2007)	affinity chromatography technology	MI:0004	265046	physical association	835842	physical association	pubmed	17704763	FALSE	265046	838883 (265046) 835842	psi-mi
+75	838883	AT1G22770		FB	Sawa M (2007)	affinity chromatography technology	MI:0004	265096	physical association	836364	physical association	pubmed	17872410	FALSE	265096	838883 (265096) 836364	psi-mi
+76	838883	AT1G22770		FB	Tseng TS (2004)	two hybrid	MI:0018	265098	direct interaction	820327	direct interaction	pubmed	15155885	FALSE	265098	838883 (265098) 820327	psi-mi
+77	838883	AT1G22770		FB	Tseng TS (2004)	pull down	MI:0096	265101	direct interaction	820327	direct interaction	pubmed	15155885	FALSE	265101	838883 (265101) 820327	psi-mi
+78	838883	AT1G22770		FB	Chen M (2006)	genetic interference	MI:0254	265671	additive genetic interaction defined by inequality	819383	additive genetic interaction defined by inequality	pubmed	16709197	FALSE	265671	838883 (265671) 819383	psi-mi
+79	838883	AT1G22770		FB	Martin-Tryon EL (2007)	genetic interference	MI:0254	265674	additive genetic interaction defined by inequality	835842	additive genetic interaction defined by inequality	pubmed	17098855	FALSE	265674	838883 (265674) 835842	psi-mi
+80	838883	AT1G22770		FB	Tseng TS (2004)	genetic interference	MI:0254	265677	suppressive genetic interaction defined by inequality	820327	suppressive genetic interaction defined by inequality	pubmed	15155885	FALSE	265677	838883 (265677) 820327	psi-mi
+81	838883	AT1G22770		FB	Soppe WJ (1999)	genetic interference	MI:0254	265684	suppressive genetic interaction defined by inequality	844066	suppressive genetic interaction defined by inequality	pubmed	10518493	FALSE	265684	838883 (265684) 844066	psi-mi
+82	838883	AT1G22770		FB	Ding Z (2007)	genetic interference	MI:0254	265727	additive genetic interaction defined by inequality	821807	additive genetic interaction defined by inequality	pubmed	17496120	FALSE	265727	838883 (265727) 821807	psi-mi
+83	838883	AT1G22770		FB	Nakagawa M (2004)	genetic interference	MI:0254	265728	suppressive genetic interaction defined by inequality	817857	suppressive genetic interaction defined by inequality	pubmed	15111714	FALSE	265728	838883 (265728) 817857	psi-mi
+84	838883	AT1G22770		FB	Kim WY (2013)	affinity chromatography technology	MI:0004	802374	physical association	833502	physical association	pubmed	23322040	FALSE	802374	838883 (802374) 833502	psi-mi
+85	838883	AT1G22770		FB	Kim WY (2013)	affinity chromatography technology	MI:0004	802375	physical association	832494	physical association	pubmed	23322040	FALSE	802375	838883 (802375) 832494	psi-mi
+86	838883	AT1G22770		FB	Kim WY (2013)	two hybrid	MI:0018	802378	direct interaction	833502	direct interaction	pubmed	23322040	FALSE	802378	838883 (802378) 833502	psi-mi
+87	838883	AT1G22770		FB	Kim WY (2013)	two hybrid	MI:0018	802379	direct interaction	832494	direct interaction	pubmed	23322040	FALSE	802379	838883 (802379) 832494	psi-mi
+88	838883	AT1G22770		FB	Kim WY (2013)	protein complementation assay	MI:0090	802380	direct interaction	833502	direct interaction	pubmed	23322040	FALSE	802380	838883 (802380) 833502	psi-mi
+89	838883	AT1G22770		FB	Kim J (2013)	affinity chromatography technology	MI:0004	903841	physical association	835842	physical association	pubmed	24004949	FALSE	903841	838883 (903841) 835842	psi-mi
+90	839529	AT1G04400		CRY2	Li X (2011)	two hybrid	MI:0018	592423	direct interaction	819242	direct interaction	pubmed	22139370	FALSE	592423	839529 (592423) 819242	psi-mi
+91	839529	AT1G04400		CRY2	Zuo Z (2011)	two hybrid	MI:0018	532126	direct interaction	819242	direct interaction	pubmed	21514160	FALSE	532126	839529 (532126) 819242	psi-mi
+92	839529	AT1G04400		CRY2	Zuo Z (2011)	affinity chromatography technology	MI:0004	532127	physical association	819242	physical association	pubmed	21514160	FALSE	532127	839529 (532127) 819242	psi-mi
+93	839529	AT1G04400		CRY2	Weidler G (2012)	fluorescent resonance energy transfer	MI:0055	668154	direct interaction	819242	direct interaction	pubmed	22739826	FALSE	668154	839529 (668154) 819242	psi-mi
+94	839529	AT1G04400		CRY2	Sang Y (2005)	pull down	MI:0096	336353	direct interaction	839529	direct interaction	pubmed	15805487	FALSE	336353	839529 (336353) 839529	psi-mi
+95	839529	AT1G04400		CRY2	Ozguer S (2006)	enzymatic study	MI:0415	281113	direct interaction	839529	direct interaction	pubmed	17073458	FALSE	281113	839529 (281113) 839529	psi-mi
+96	839529	AT1G04400		CRY2	Taslimi A (2014)	protein complementation assay	MI:0090	1255365	direct interaction	839529	direct interaction	pubmed	25233328	FALSE	1255365	839529 (1255365) 839529	psi-mi
+97	839529	AT1G04400		CRY2	Wang H (2001)	affinity chromatography technology	MI:0004	332628	physical association	817857	physical association	pubmed	11509693	FALSE	332628	839529 (332628) 817857	psi-mi
+98	839529	AT1G04400		CRY2	Nakagawa M (2004)	genetic interference	MI:0254	265729	suppressive genetic interaction defined by inequality	817857	suppressive genetic interaction defined by inequality	pubmed	15111714	FALSE	265729	839529 (265729) 817857	psi-mi
+99	839529	AT1G04400		CRY2	Kennedy MJ (2010)	two hybrid	MI:0018	470554	direct interaction	829604	direct interaction	pubmed	21037589	FALSE	470554	839529 (470554) 829604	psi-mi
+100	839529	AT1G04400		CRY2	Li X (2011)	pull down	MI:0096	592424	direct interaction	829604	direct interaction	pubmed	22139370	FALSE	592424	839529 (592424) 829604	psi-mi
+101	839529	AT1G04400		CRY2	Liu H (2008)	two hybrid	MI:0018	317511	direct interaction	829604	direct interaction	pubmed	18988809	FALSE	317511	839529 (317511) 829604	psi-mi
+102	839529	AT1G04400		CRY2	Liu H (2008)	affinity chromatography technology	MI:0004	317512	physical association	829604	physical association	pubmed	18988809	FALSE	317512	839529 (317512) 829604	psi-mi
+103	839529	AT1G04400		CRY2	Zuo Z (2011)	affinity chromatography technology	MI:0004	532128	physical association	817857	physical association	pubmed	21514160	FALSE	532128	839529 (532128) 817857	psi-mi
+104	839529	AT1G04400		CRY2	Liu Y (2013)	protein complementation assay	MI:0090	907931	direct interaction	839167	direct interaction	pubmed	24130508	FALSE	907931	839529 (907931) 839167	psi-mi
+105	839529	AT1G04400		CRY2	Liu Y (2013)	affinity chromatography technology	MI:0004	907932	physical association	839167	physical association	pubmed	24130508	FALSE	907932	839529 (907932) 839167	psi-mi
+106	839529	AT1G04400		CRY2	Cui Y (2014)	fluorescent resonance energy transfer	MI:0055	1172855	direct interaction	829604	direct interaction	pubmed	24780222	FALSE	1172855	839529 (1172855) 829604	psi-mi
+107	839529	AT1G04400		CRY2	Liu Y (2014)	imaging technique	MI:0428	1104548	colocalization	817857	colocalization	pubmed	24554768	FALSE	1104548	839529 (1104548) 817857	psi-mi
+108	839529	AT1G04400		CRY2	Hughes RM (2012)	two hybrid	MI:0018	1104859	direct interaction	829604	direct interaction	pubmed	22922268	FALSE	1104859	839529 (1104859) 829604	psi-mi
+109	839529	AT1G04400		CRY2	Kang MY (2015)	genetic interference	MI:0254	1528485	additive genetic interaction defined by inequality	826609	additive genetic interaction defined by inequality	pubmed	25962685	FALSE	1528485	839529 (1528485) 826609	psi-mi
+110	839529	AT1G04400		CRY2	Ozkan-Dagliyan I (2013)	affinity chromatography technology	MI:0004	883111	physical association	26374	physical association	pubmed	23833191	FALSE	883111	839529 (883111) 26374	psi-mi
+111	839529	AT1G04400		CRY2	Weidler G (2012)	fluorescent resonance energy transfer	MI:0055	668155	direct interaction	829604	direct interaction	pubmed	22739826	FALSE	668155	839529 (668155) 829604	psi-mi
+112	836259	AT5G61380		PRR1	Martin-Tryon EL (2007)	genetic interference	MI:0254	265673	additive genetic interaction defined by inequality	838883	additive genetic interaction defined by inequality	pubmed	17098855	FALSE	265673	836259 (265673) 838883	psi-mi
+113	836259	AT5G61380		PRR1	Yasuhara M (2004)	two hybrid	MI:0018	265033	direct interaction	843133	direct interaction	pubmed	15310821	FALSE	265033	836259 (265033) 843133	psi-mi
+114	836259	AT5G61380		PRR1	Mas P (2003)	two hybrid	MI:0018	265068	direct interaction	843133	direct interaction	pubmed	14654842	FALSE	265068	836259 (265068) 843133	psi-mi
+115	836259	AT5G61380		PRR1	Huang H (2016)	two hybrid	MI:0018	1507146	direct interaction	817134	direct interaction	pubmed	26545401	FALSE	1507146	836259 (1507146) 817134	psi-mi
+116	836259	AT5G61380		PRR1	Ito S (2003)	two hybrid	MI:0018	265016	direct interaction	836259	direct interaction	pubmed	14634162	FALSE	265016	836259 (265016) 836259	psi-mi
+117	836259	AT5G61380		PRR1	Ito S (2003)	two hybrid	MI:0018	265014	direct interaction	818903	direct interaction	pubmed	14634162	FALSE	265014	836259 (265014) 818903	psi-mi
+118	836259	AT5G61380		PRR1	Ito S (2003)	two hybrid	MI:0018	265015	direct interaction	825075	direct interaction	pubmed	14634162	FALSE	265015	836259 (265015) 825075	psi-mi
+119	836259	AT5G61380		PRR1	Ito S (2003)	two hybrid	MI:0018	265017	direct interaction	819292	direct interaction	pubmed	14634162	FALSE	265017	836259 (265017) 819292	psi-mi
+120	836259	AT5G61380		PRR1	Yasuhara M (2004)	two hybrid	MI:0018	265031	direct interaction	835842	direct interaction	pubmed	15310821	FALSE	265031	836259 (265031) 835842	psi-mi
+121	836259	AT5G61380		PRR1	Yasuhara M (2004)	two hybrid	MI:0018	265032	direct interaction	816408	direct interaction	pubmed	15310821	FALSE	265032	836259 (265032) 816408	psi-mi
+122	836259	AT5G61380		PRR1	Para A (2007)	affinity chromatography technology	MI:0004	265038	physical association	836132	physical association	pubmed	18055606	FALSE	265038	836259 (265038) 836132	psi-mi
+123	836259	AT5G61380		PRR1	Kevei E (2006)	two hybrid	MI:0018	265064	direct interaction	835842	direct interaction	pubmed	16428597	FALSE	265064	836259 (265064) 835842	psi-mi
+124	836259	AT5G61380		PRR1	Mas P (2003)	two hybrid	MI:0018	265067	direct interaction	835842	direct interaction	pubmed	14654842	FALSE	265067	836259 (265067) 835842	psi-mi
+125	836259	AT5G61380		PRR1	Mas P (2003)	two hybrid	MI:0018	265069	direct interaction	816408	direct interaction	pubmed	14654842	FALSE	265069	836259 (265069) 816408	psi-mi
+126	836259	AT5G61380		PRR1	Mas P (2003)	affinity chromatography technology	MI:0004	265070	physical association	835842	physical association	pubmed	14654842	FALSE	265070	836259 (265070) 835842	psi-mi
+127	836259	AT5G61380		PRR1	Fujimori T (2004)	two hybrid	MI:0018	265072	direct interaction	825075	direct interaction	pubmed	15356333	FALSE	265072	836259 (265072) 825075	psi-mi
+128	836259	AT5G61380		PRR1	Fujimori T (2004)	two hybrid	MI:0018	265073	direct interaction	837479	direct interaction	pubmed	15356333	FALSE	265073	836259 (265073) 837479	psi-mi
+129	836259	AT5G61380		PRR1	Yamashino T (2003)	two hybrid	MI:0018	265075	direct interaction	819311	direct interaction	pubmed	12826627	FALSE	265075	836259 (265075) 819311	psi-mi
+130	836259	AT5G61380		PRR1	Yamashino T (2003)	two hybrid	MI:0018	265076	direct interaction	825382	direct interaction	pubmed	12826627	FALSE	265076	836259 (265076) 825382	psi-mi
+131	836259	AT5G61380		PRR1	Yamashino T (2003)	two hybrid	MI:0018	265077	direct interaction	837479	direct interaction	pubmed	12826627	FALSE	265077	836259 (265077) 837479	psi-mi
+132	836259	AT5G61380		PRR1	Yamashino T (2003)	two hybrid	MI:0018	265078	direct interaction	816538	direct interaction	pubmed	12826627	FALSE	265078	836259 (265078) 816538	psi-mi
+133	836259	AT5G61380		PRR1	Yamashino T (2003)	two hybrid	MI:0018	265079	direct interaction	818903	direct interaction	pubmed	12826627	FALSE	265079	836259 (265079) 818903	psi-mi
+134	836259	AT5G61380		PRR1	Yamashino T (2003)	two hybrid	MI:0018	265080	direct interaction	825075	direct interaction	pubmed	12826627	FALSE	265080	836259 (265080) 825075	psi-mi
+135	836259	AT5G61380		PRR1	Makino S (2002)	two hybrid	MI:0018	265090	direct interaction	819311	direct interaction	pubmed	11828023	FALSE	265090	836259 (265090) 819311	psi-mi
+136	836259	AT5G61380		PRR1	Makino S (2002)	two hybrid	MI:0018	265091	direct interaction	837479	direct interaction	pubmed	11828023	FALSE	265091	836259 (265091) 837479	psi-mi
+137	836259	AT5G61380		PRR1	Ding Z (2007)	genetic interference	MI:0254	265114	additive genetic interaction defined by inequality	819296	additive genetic interaction defined by inequality	pubmed	17483414	FALSE	265114	836259 (265114) 819296	psi-mi
+138	836259	AT5G61380		PRR1	Ito S (2008)	genetic interference	MI:0254	265690	suppressive genetic interaction defined by inequality	832518	suppressive genetic interaction defined by inequality	pubmed	18178585	FALSE	265690	836259 (265690) 832518	psi-mi
+139	836259	AT5G61380		PRR1	Niwa Y (2007)	genetic interference	MI:0254	265695	additive genetic interaction defined by inequality	819296	additive genetic interaction defined by inequality	pubmed	17540692	FALSE	265695	836259 (265695) 819296	psi-mi
+140	836259	AT5G61380		PRR1	Ding Z (2007)	genetic interference	MI:0254	265724	additive genetic interaction defined by inequality	821807	additive genetic interaction defined by inequality	pubmed	17496120	FALSE	265724	836259 (265724) 821807	psi-mi
+141	836259	AT5G61380		PRR1	Wang L (2010)	affinity chromatography technology	MI:0004	437111	physical association	832518	physical association	pubmed	20407420	FALSE	437111	836259 (437111) 832518	psi-mi
+142	836259	AT5G61380		PRR1	Wang L (2010)	affinity chromatography technology	MI:0004	437112	physical association	835842	physical association	pubmed	20407420	FALSE	437112	836259 (437112) 835842	psi-mi
+143	836259	AT5G61380		PRR1	Fujiwara S (2008)	affinity chromatography technology	MI:0004	296943	physical association	835842	physical association	pubmed	18562312	FALSE	296943	836259 (296943) 835842	psi-mi
+144	836259	AT5G61380		PRR1	Fujiwara S (2008)	affinity chromatography technology	MI:0004	296944	physical association	836132	physical association	pubmed	18562312	FALSE	296944	836259 (296944) 836132	psi-mi
+145	836259	AT5G61380		PRR1	Pruneda-Paz JL (2009)	two hybrid	MI:0018	1106448	direct interaction	830730	direct interaction	pubmed	19286557	FALSE	1106448	836259 (1106448) 830730	psi-mi
+146	843133	AT1G68050		FKF1	Kim WY (2007)	pull down	MI:0096	265041	direct interaction	838883	direct interaction	pubmed	17704763	FALSE	265041	843133 (265041) 838883	psi-mi
+147	843133	AT1G68050		FKF1	Sawa M (2007)	two hybrid	MI:0018	265093	direct interaction	838883	direct interaction	pubmed	17872410	FALSE	265093	843133 (265093) 838883	psi-mi
+148	843133	AT1G68050		FKF1	Song YH (2014)	affinity chromatography technology	MI:0004	1241606	physical association	838883	physical association	pubmed	25422419	FALSE	1241606	843133 (1241606) 838883	psi-mi
+149	843133	AT1G68050		FKF1	Baudry A (2010)	pull down	MI:0096	435192	direct interaction	836259	direct interaction	pubmed	20354196	FALSE	435192	843133 (435192) 836259	psi-mi
+150	843133	AT1G68050		FKF1	Baudry A (2010)	affinity chromatography technology	MI:0004	435193	physical association	836259	physical association	pubmed	20354196	FALSE	435193	843133 (435193) 836259	psi-mi
+151	843133	AT1G68050		FKF1	Nakasako M (2005)	x-ray crystallography	MI:0114	331577	association	843133	association	pubmed	15710392	FALSE	331577	843133 (331577) 843133	psi-mi
+152	843133	AT1G68050		FKF1	Imaizumi T (2005)	two hybrid	MI:0018	336778	direct interaction	836364	direct interaction	pubmed	16002617	FALSE	336778	843133 (336778) 836364	psi-mi
+153	843133	AT1G68050		FKF1	Imaizumi T (2005)	two hybrid	MI:0018	336779	direct interaction	833962	direct interaction	pubmed	16002617	FALSE	336779	843133 (336779) 833962	psi-mi
+154	843133	AT1G68050		FKF1	Imaizumi T (2005)	two hybrid	MI:0018	336780	direct interaction	823904	direct interaction	pubmed	16002617	FALSE	336780	843133 (336780) 823904	psi-mi
+155	843133	AT1G68050		FKF1	Imaizumi T (2005)	pull down	MI:0096	336781	direct interaction	836364	direct interaction	pubmed	16002617	FALSE	336781	843133 (336781) 836364	psi-mi
+156	843133	AT1G68050		FKF1	Imaizumi T (2005)	pull down	MI:0096	336782	direct interaction	833962	direct interaction	pubmed	16002617	FALSE	336782	843133 (336782) 833962	psi-mi
+157	843133	AT1G68050		FKF1	Imaizumi T (2005)	pull down	MI:0096	336783	direct interaction	823904	direct interaction	pubmed	16002617	FALSE	336783	843133 (336783) 823904	psi-mi
+158	843133	AT1G68050		FKF1	Takase T (2011)	fluorescent resonance energy transfer	MI:0055	533474	direct interaction	816408	direct interaction	pubmed	21518052	FALSE	533474	843133 (533474) 816408	psi-mi
+159	843133	AT1G68050		FKF1	Takase T (2011)	two hybrid	MI:0018	533475	direct interaction	816408	direct interaction	pubmed	21518052	FALSE	533475	843133 (533475) 816408	psi-mi
+160	843133	AT1G68050		FKF1	Takase T (2011)	two hybrid	MI:0018	533476	direct interaction	835842	direct interaction	pubmed	21518052	FALSE	533476	843133 (533476) 835842	psi-mi
+161	843133	AT1G68050		FKF1	Takase T (2011)	pull down	MI:0096	533481	direct interaction	816408	direct interaction	pubmed	21518052	FALSE	533481	843133 (533481) 816408	psi-mi
+162	843133	AT1G68050		FKF1	Takase T (2011)	pull down	MI:0096	533482	direct interaction	835842	direct interaction	pubmed	21518052	FALSE	533482	843133 (533482) 835842	psi-mi
+163	843133	AT1G68050		FKF1	Sawa M (2007)	two hybrid	MI:0018	265094	direct interaction	834224	direct interaction	pubmed	17872410	FALSE	265094	843133 (265094) 834224	psi-mi
+164	843133	AT1G68050		FKF1	Fukamatsu Y (2005)	two hybrid	MI:0018	266293	direct interaction	842081	direct interaction	pubmed	15937324	FALSE	266293	843133 (266293) 842081	psi-mi
+165	843133	AT1G68050		FKF1	Takahashi N (2004)	two hybrid	MI:0018	266426	direct interaction	843928	direct interaction	pubmed	14749489	FALSE	266426	843133 (266426) 843928	psi-mi
+166	843133	AT1G68050		FKF1	Takahashi N (2004)	two hybrid	MI:0018	266427	direct interaction	834224	direct interaction	pubmed	14749489	FALSE	266427	843133 (266427) 834224	psi-mi
+167	843133	AT1G68050		FKF1	Takahashi N (2004)	two hybrid	MI:0018	266428	direct interaction	817111	direct interaction	pubmed	14749489	FALSE	266428	843133 (266428) 817111	psi-mi
+168	843133	AT1G68050		FKF1	Takahashi N (2004)	two hybrid	MI:0018	266429	direct interaction	829569	direct interaction	pubmed	14749489	FALSE	266429	843133 (266429) 829569	psi-mi
+169	843133	AT1G68050		FKF1	Takahashi N (2004)	two hybrid	MI:0018	266430	direct interaction	829598	direct interaction	pubmed	14749489	FALSE	266430	843133 (266430) 829598	psi-mi
+170	843133	AT1G68050		FKF1	Takahashi N (2004)	two hybrid	MI:0018	266431	direct interaction	825171	direct interaction	pubmed	14749489	FALSE	266431	843133 (266431) 825171	psi-mi
+171	843133	AT1G68050		FKF1	Baudry A (2010)	two hybrid	MI:0018	435186	direct interaction	832518	direct interaction	pubmed	20354196	FALSE	435186	843133 (435186) 832518	psi-mi
+172	843133	AT1G68050		FKF1	Baudry A (2010)	pull down	MI:0096	435189	direct interaction	832518	direct interaction	pubmed	20354196	FALSE	435189	843133 (435189) 832518	psi-mi
+173	843133	AT1G68050		FKF1	Baudry A (2010)	affinity chromatography technology	MI:0004	435194	physical association	832518	physical association	pubmed	20354196	FALSE	435194	843133 (435194) 832518	psi-mi
+174	843133	AT1G68050		FKF1	Braun P (2011)	two hybrid	MI:0018	597840	direct interaction	843928	direct interaction	pubmed	21798944	FALSE	597840	843133 (597840) 843928	psi-mi
+175	843133	AT1G68050		FKF1	Kuroda H (2012)	two hybrid	MI:0018	888954	direct interaction	843928	direct interaction	pubmed	23166809	FALSE	888954	843133 (888954) 843928	psi-mi
+176	843133	AT1G68050		FKF1	Kuroda H (2012)	two hybrid	MI:0018	888955	direct interaction	834224	direct interaction	pubmed	23166809	FALSE	888955	843133 (888955) 834224	psi-mi
+177	843133	AT1G68050		FKF1	Kuroda H (2012)	two hybrid	MI:0018	888956	direct interaction	829569	direct interaction	pubmed	23166809	FALSE	888956	843133 (888956) 829569	psi-mi
+178	843133	AT1G68050		FKF1	Kuroda H (2012)	two hybrid	MI:0018	888957	direct interaction	829598	direct interaction	pubmed	23166809	FALSE	888957	843133 (888957) 829598	psi-mi
+179	843133	AT1G68050		FKF1	Kuroda H (2012)	two hybrid	MI:0018	888958	direct interaction	825171	direct interaction	pubmed	23166809	FALSE	888958	843133 (888958) 825171	psi-mi
+180	843133	AT1G68050		FKF1	Song YH (2014)	affinity chromatography technology	MI:0004	1241607	physical association	843928	physical association	pubmed	25422419	FALSE	1241607	843133 (1241607) 843928	psi-mi
+181	843133	AT1G68050		FKF1	Song YH (2014)	affinity chromatography technology	MI:0004	1241608	physical association	834224	physical association	pubmed	25422419	FALSE	1241608	843133 (1241608) 834224	psi-mi
+182	843133	AT1G68050		FKF1	Song YH (2014)	affinity chromatography technology	MI:0004	1241609	physical association	825648	physical association	pubmed	25422419	FALSE	1241609	843133 (1241609) 825648	psi-mi
+183	843133	AT1G68050		FKF1	Song YH (2014)	affinity chromatography technology	MI:0004	1241610	physical association	835699	physical association	pubmed	25422419	FALSE	1241610	843133 (1241610) 835699	psi-mi
+184	843133	AT1G68050		FKF1	Song YH (2014)	affinity chromatography technology	MI:0004	1241611	physical association	833535	physical association	pubmed	25422419	FALSE	1241611	843133 (1241611) 833535	psi-mi
+185	843133	AT1G68050		FKF1	Song YH (2014)	affinity chromatography technology	MI:0004	1241612	physical association	827979	physical association	pubmed	25422419	FALSE	1241612	843133 (1241612) 827979	psi-mi
+186	843133	AT1G68050		FKF1	Kang MY (2015)	genetic interference	MI:0254	1528487	suppressive genetic interaction defined by inequality	826609	suppressive genetic interaction defined by inequality	pubmed	25962685	FALSE	1528487	843133 (1528487) 826609	psi-mi
+187	817134	AT2G25930		ELF3	Yu JW (2008)	two hybrid	MI:0018	318279	direct interaction	838883	direct interaction	pubmed	19061637	FALSE	318279	817134 (318279) 838883	psi-mi
+188	817134	AT2G25930		ELF3	Yu JW (2008)	protein complementation assay	MI:0090	318282	direct interaction	838883	direct interaction	pubmed	19061637	FALSE	318282	817134 (318282) 838883	psi-mi
+189	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507151	physical association	836259	physical association	pubmed	26545401	FALSE	1507151	817134 (1507151) 836259	psi-mi
+190	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507166	physical association	819242	physical association	pubmed	26545401	FALSE	1507166	817134 (1507166) 819242	psi-mi
+191	817134	AT2G25930		ELF3	Liu XL (2001)	two hybrid	MI:0018	265132	direct interaction	816394	direct interaction	pubmed	11402161	FALSE	265132	817134 (265132) 816394	psi-mi
+192	817134	AT2G25930		ELF3	Soppe WJ (1999)	genetic interference	MI:0254	265685	suppressive genetic interaction defined by inequality	842859	suppressive genetic interaction defined by inequality	pubmed	10518493	FALSE	265685	817134 (265685) 842859	psi-mi
+193	817134	AT2G25930		ELF3	Soppe WJ (1999)	genetic interference	MI:0254	265686	suppressive genetic interaction defined by inequality	827904	suppressive genetic interaction defined by inequality	pubmed	10518493	FALSE	265686	817134 (265686) 827904	psi-mi
+194	817134	AT2G25930		ELF3	Soppe WJ (1999)	genetic interference	MI:0254	265687	suppressive genetic interaction defined by inequality	827323	suppressive genetic interaction defined by inequality	pubmed	10518493	FALSE	265687	817134 (265687) 827323	psi-mi
+195	817134	AT2G25930		ELF3	Soppe WJ (1999)	genetic interference	MI:0254	265688	suppressive genetic interaction defined by inequality	828658	suppressive genetic interaction defined by inequality	pubmed	10518493	FALSE	265688	817134 (265688) 828658	psi-mi
+196	817134	AT2G25930		ELF3	Liu XL (2001)	genetic interference	MI:0254	268147	additive genetic interaction defined by inequality	816394	additive genetic interaction defined by inequality	pubmed	11402161	FALSE	268147	817134 (268147) 816394	psi-mi
+197	817134	AT2G25930		ELF3	Liu XL (2001)	genetic interference	MI:0254	268149	suppressive genetic interaction defined by inequality	837483	suppressive genetic interaction defined by inequality	pubmed	11402161	FALSE	268149	817134 (268149) 837483	psi-mi
+198	817134	AT2G25930		ELF3	Zagotta MT (1996)	genetic interference	MI:0254	268151	additive genetic interaction defined by inequality	820069	additive genetic interaction defined by inequality	pubmed	8893545	FALSE	268151	817134 (268151) 820069	psi-mi
+199	817134	AT2G25930		ELF3	Yu JW (2008)	affinity chromatography technology	MI:0004	318277	physical association	817857	physical association	pubmed	19061637	FALSE	318277	817134 (318277) 817857	psi-mi
+200	817134	AT2G25930		ELF3	Nieto C (2015)	two hybrid	MI:0018	1173315	direct interaction	818903	direct interaction	pubmed	25557667	FALSE	1173315	817134 (1173315) 818903	psi-mi
+201	817134	AT2G25930		ELF3	Nieto C (2015)	fluorescent resonance energy transfer	MI:0055	1173316	direct interaction	818903	direct interaction	pubmed	25557667	FALSE	1173316	817134 (1173316) 818903	psi-mi
+202	817134	AT2G25930		ELF3	Nieto C (2015)	affinity chromatography technology	MI:0004	1173317	physical association	818903	physical association	pubmed	25557667	FALSE	1173317	817134 (1173317) 818903	psi-mi
+203	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507147	physical association	818596	physical association	pubmed	26545401	FALSE	1507147	817134 (1507147) 818596	psi-mi
+204	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507148	physical association	823817	physical association	pubmed	26545401	FALSE	1507148	817134 (1507148) 823817	psi-mi
+205	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507149	physical association	836076	physical association	pubmed	26545401	FALSE	1507149	817134 (1507149) 836076	psi-mi
+206	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507150	physical association	821807	physical association	pubmed	26545401	FALSE	1507150	817134 (1507150) 821807	psi-mi
+207	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507153	physical association	837849	physical association	pubmed	26545401	FALSE	1507153	817134 (1507153) 837849	psi-mi
+208	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507155	physical association	843595	physical association	pubmed	26545401	FALSE	1507155	817134 (1507155) 843595	psi-mi
+209	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507156	physical association	815182	physical association	pubmed	26545401	FALSE	1507156	817134 (1507156) 815182	psi-mi
+210	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507157	physical association	838318	physical association	pubmed	26545401	FALSE	1507157	817134 (1507157) 838318	psi-mi
+211	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507158	physical association	837455	physical association	pubmed	26545401	FALSE	1507158	817134 (1507158) 837455	psi-mi
+212	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507160	physical association	816394	physical association	pubmed	26545401	FALSE	1507160	817134 (1507160) 816394	psi-mi
+213	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507161	physical association	833570	physical association	pubmed	26545401	FALSE	1507161	817134 (1507161) 833570	psi-mi
+214	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507162	physical association	827538	physical association	pubmed	26545401	FALSE	1507162	817134 (1507162) 827538	psi-mi
+215	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507163	physical association	827319	physical association	pubmed	26545401	FALSE	1507163	817134 (1507163) 827319	psi-mi
+216	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507164	physical association	837483	physical association	pubmed	26545401	FALSE	1507164	817134 (1507164) 837483	psi-mi
+217	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507165	physical association	817857	physical association	pubmed	26545401	FALSE	1507165	817134 (1507165) 817857	psi-mi
+218	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507167	physical association	826712	physical association	pubmed	26545401	FALSE	1507167	817134 (1507167) 826712	psi-mi
+219	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507168	physical association	820767	physical association	pubmed	26545401	FALSE	1507168	817134 (1507168) 820767	psi-mi
+220	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507169	physical association	836248	physical association	pubmed	26545401	FALSE	1507169	817134 (1507169) 836248	psi-mi
+221	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507170	physical association	834383	physical association	pubmed	26545401	FALSE	1507170	817134 (1507170) 834383	psi-mi
+222	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507171	physical association	816133	physical association	pubmed	26545401	FALSE	1507171	817134 (1507171) 816133	psi-mi
+223	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507172	physical association	830576	physical association	pubmed	26545401	FALSE	1507172	817134 (1507172) 830576	psi-mi
+224	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507173	physical association	3769417	physical association	pubmed	26545401	FALSE	1507173	817134 (1507173) 3769417	psi-mi
+225	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507174	physical association	831937	physical association	pubmed	26545401	FALSE	1507174	817134 (1507174) 831937	psi-mi
+226	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507175	physical association	819551	physical association	pubmed	26545401	FALSE	1507175	817134 (1507175) 819551	psi-mi
+227	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507176	physical association	817118	physical association	pubmed	26545401	FALSE	1507176	817134 (1507176) 817118	psi-mi
+228	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507177	physical association	820572	physical association	pubmed	26545401	FALSE	1507177	817134 (1507177) 820572	psi-mi
+229	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507178	physical association	832185	physical association	pubmed	26545401	FALSE	1507178	817134 (1507178) 832185	psi-mi
+230	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507179	physical association	841122	physical association	pubmed	26545401	FALSE	1507179	817134 (1507179) 841122	psi-mi
+231	817134	AT2G25930		ELF3	Huang H (2016)	affinity chromatography technology	MI:0004	1507180	physical association	838388	physical association	pubmed	26545401	FALSE	1507180	817134 (1507180) 838388	psi-mi
+232	817134	AT2G25930		ELF3	Kang MY (2015)	fluorescent resonance energy transfer	MI:0055	1528493	direct interaction	818596	direct interaction	pubmed	25962685	FALSE	1528493	817134 (1528493) 818596	psi-mi
+233	817134	AT2G25930		ELF3	Choudhary MK (2015)	affinity chromatography technology	MI:0004	2200945	physical association	818596	physical association	pubmed	26091701	FALSE	2200945	817134 (2200945) 818596	psi-mi
+234	819296	AT2G46830		CCA1	Sugano S (1998)	pull down	MI:0096	265107	direct interaction	836873	direct interaction	pubmed	9724822	FALSE	265107	819296 (265107) 836873	psi-mi
+235	819296	AT2G46830		CCA1	Ding Z (2007)	genetic interference	MI:0254	265115	additive genetic interaction defined by inequality	839341	additive genetic interaction defined by inequality	pubmed	17483414	FALSE	265115	819296 (265115) 839341	psi-mi
+236	819296	AT2G46830		CCA1	Niwa Y (2007)	genetic interference	MI:0254	265691	additive genetic interaction defined by inequality	839341	additive genetic interaction defined by inequality	pubmed	17540692	FALSE	265691	819296 (265691) 839341	psi-mi
+237	819296	AT2G46830		CCA1	Ito S (2007)	genetic interference	MI:0254	265698	additive genetic interaction defined by inequality	839341	additive genetic interaction defined by inequality	pubmed	17519251	FALSE	265698	819296 (265698) 839341	psi-mi
+238	819296	AT2G46830		CCA1	Nakamichi N (2007)	genetic interference	MI:0254	265712	additive genetic interaction defined by inequality	839341	additive genetic interaction defined by inequality	pubmed	17504813	FALSE	265712	819296 (265712) 839341	psi-mi
+239	819296	AT2G46830		CCA1	Lu SX (2009)	genetic interference	MI:0254	1521040	synthetic genetic interaction defined by inequality	839341	synthetic genetic interaction defined by inequality	pubmed	19218364	FALSE	1521040	819296 (1521040) 839341	psi-mi
+240	819296	AT2G46830		CCA1	Lu SX (2009)	pull down	MI:0096	1521041	direct interaction	839341	direct interaction	pubmed	19218364	FALSE	1521041	819296 (1521041) 839341	psi-mi
+241	819296	AT2G46830		CCA1	Seo PJ (2012)	protein complementation assay	MI:0090	666027	direct interaction	839341	direct interaction	pubmed	22715042	FALSE	666027	819296 (666027) 839341	psi-mi
+242	819296	AT2G46830		CCA1	Ding Z (2007)	genetic interference	MI:0254	265117	suppressive genetic interaction defined by inequality	836259	suppressive genetic interaction defined by inequality	pubmed	17483414	FALSE	265117	819296 (265117) 836259	psi-mi
+243	819296	AT2G46830		CCA1	Ding Z (2007)	genetic interference	MI:0254	265118	additive genetic interaction defined by inequality	836259	additive genetic interaction defined by inequality	pubmed	17483414	FALSE	265118	819296 (265118) 836259	psi-mi
+244	819296	AT2G46830		CCA1	Niwa Y (2007)	genetic interference	MI:0254	265693	suppressive genetic interaction defined by inequality	836259	suppressive genetic interaction defined by inequality	pubmed	17540692	FALSE	265693	819296 (265693) 836259	psi-mi
+245	819296	AT2G46830		CCA1	Niwa Y (2007)	genetic interference	MI:0254	265696	additive genetic interaction defined by inequality	836259	additive genetic interaction defined by inequality	pubmed	17540692	FALSE	265696	819296 (265696) 836259	psi-mi
+246	819296	AT2G46830		CCA1	Ito S (2007)	genetic interference	MI:0254	265699	suppressive genetic interaction defined by inequality	836259	suppressive genetic interaction defined by inequality	pubmed	17519251	FALSE	265699	819296 (265699) 836259	psi-mi
+247	828747	AT4G26410		RHIP1	Klopffleisch K (2011)	two hybrid	MI:0018	600550	direct interaction	836873	direct interaction	pubmed	21952135	FALSE	600550	828747 (600550) 836873	psi-mi
+248	822207	AT3G26090		RGS1	Klopffleisch K (2011)	two hybrid	MI:0018	600676	direct interaction	836873	direct interaction	pubmed	21952135	FALSE	600676	822207 (600676) 836873	psi-mi
+249	839348	AT1G05000		PFA-DSP1	Klopffleisch K (2011)	two hybrid	MI:0018	600899	direct interaction	836873	direct interaction	pubmed	21952135	FALSE	600899	839348 (600899) 836873	psi-mi
+250	831899	AT5G03240		UBQ3	Kim DY (2013)	affinity chromatography technology	MI:0004	888688	physical association	836873	physical association	pubmed	23667124	FALSE	888688	831899 (888688) 836873	psi-mi
+251	831899	AT5G03240		UBQ3	Manzano C (2008)	affinity chromatography technology	MI:0004	617273	physical association	838883	physical association	pubmed	18535787	FALSE	617273	831899 (617273) 838883	psi-mi
+252	831899	AT5G03240		UBQ3	Manzano C (2008)	affinity chromatography technology	MI:0004	617424	physical association	843133	physical association	pubmed	18535787	FALSE	617424	831899 (617424) 843133	psi-mi
+253	840349	AT1G34470		ENOR3L5	Jones AM (2014)	protein complementation assay	MI:0090	1244210	direct interaction	836873	direct interaction	pubmed	24833385	FALSE	1244210	840349 (1244210) 836873	psi-mi
+254	835842	AT5G57360		ZTL	Jarillo JA (2001)	two hybrid	MI:0018	266541	direct interaction	826470	direct interaction	pubmed	11260718	FALSE	266541	835842 (266541) 826470	psi-mi
+255	835842	AT5G57360		ZTL	Jarillo JA (2001)	pull down	MI:0096	266543	direct interaction	826470	direct interaction	pubmed	11260718	FALSE	266543	835842 (266543) 826470	psi-mi
+256	835842	AT5G57360		ZTL	Kim WY (2007)	pull down	MI:0096	265039	direct interaction	838883	direct interaction	pubmed	17704763	FALSE	265039	835842 (265039) 838883	psi-mi
+257	835842	AT5G57360		ZTL	Kim WY (2007)	two hybrid	MI:0018	265044	direct interaction	838883	direct interaction	pubmed	17704763	FALSE	265044	835842 (265044) 838883	psi-mi
+258	835842	AT5G57360		ZTL	Takase T (2011)	two hybrid	MI:0018	533478	direct interaction	843133	direct interaction	pubmed	21518052	FALSE	533478	835842 (533478) 843133	psi-mi
+259	835842	AT5G57360		ZTL	Takase T (2011)	affinity chromatography technology	MI:0004	533480	physical association	843133	physical association	pubmed	21518052	FALSE	533480	835842 (533480) 843133	psi-mi
+260	835842	AT5G57360		ZTL	Kim WY (2005)	genetic interference	MI:0254	268145	suppressive genetic interaction defined by inequality	817134	suppressive genetic interaction defined by inequality	pubmed	16258016	FALSE	268145	835842 (268145) 817134	psi-mi
+261	835842	AT5G57360		ZTL	Kim WY (2007)	affinity chromatography technology	MI:0004	265047	physical association	836259	physical association	pubmed	17704763	FALSE	265047	835842 (265047) 836259	psi-mi
+262	835842	AT5G57360		ZTL	Mas P (2003)	affinity chromatography technology	MI:0004	265071	physical association	836259	physical association	pubmed	14654842	FALSE	265071	835842 (265071) 836259	psi-mi
+263	835842	AT5G57360		ZTL	Baudry A (2010)	pull down	MI:0096	435190	direct interaction	836259	direct interaction	pubmed	20354196	FALSE	435190	835842 (435190) 836259	psi-mi
+264	835842	AT5G57360		ZTL	Fujiwara S (2008)	pull down	MI:0096	296942	direct interaction	836259	direct interaction	pubmed	18562312	FALSE	296942	835842 (296942) 836259	psi-mi
+265	837483	AT1G09570		PHYA	Ahmad M (1998)	two hybrid	MI:0018	268483	direct interaction	826470	direct interaction	pubmed	9651577	FALSE	268483	837483 (268483) 826470	psi-mi
+266	837483	AT1G09570		PHYA	Sheerin DJ (2015)	two hybrid	MI:0018	1115928	direct interaction	819242	direct interaction	pubmed	25627066	FALSE	1115928	837483 (1115928) 819242	psi-mi
+267	837483	AT1G09570		PHYA	Sheerin DJ (2015)	fluorescent resonance energy transfer	MI:0055	1115931	direct interaction	819242	direct interaction	pubmed	25627066	FALSE	1115931	837483 (1115931) 819242	psi-mi
+268	817857	AT2G32950	6.3.2.19	COP1	Chen X (2008)	two hybrid	MI:0018	271873	direct interaction	826470	direct interaction	pubmed	18252844	FALSE	271873	817857 (271873) 826470	psi-mi
+269	817857	AT2G32950	6.3.2.19	COP1	Liu Y (2014)	imaging technique	MI:0428	1104539	colocalization	826470	colocalization	pubmed	24554768	FALSE	1104539	817857 (1104539) 826470	psi-mi
+270	817857	AT2G32950	6.3.2.19	COP1	Wang H (2001)	two hybrid	MI:0018	332627	direct interaction	839529	direct interaction	pubmed	11509693	FALSE	332627	817857 (332627) 839529	psi-mi
+271	817857	AT2G32950	6.3.2.19	COP1	Liu Y (2014)	imaging technique	MI:0428	1104540	colocalization	839529	colocalization	pubmed	24554768	FALSE	1104540	817857 (1104540) 839529	psi-mi
+272	817857	AT2G32950	6.3.2.19	COP1	Yu JW (2008)	protein complementation assay	MI:0090	318281	direct interaction	838883	direct interaction	pubmed	19061637	FALSE	318281	817857 (318281) 838883	psi-mi
+273	817857	AT2G32950	6.3.2.19	COP1	Yu JW (2008)	two hybrid	MI:0018	318275	direct interaction	817134	direct interaction	pubmed	19061637	FALSE	318275	817857 (318275) 817134	psi-mi
+274	817857	AT2G32950	6.3.2.19	COP1	Yu JW (2008)	affinity chromatography technology	MI:0004	318276	physical association	817134	physical association	pubmed	19061637	FALSE	318276	817857 (318276) 817134	psi-mi
+275	817857	AT2G32950	6.3.2.19	COP1	Yu JW (2008)	enzymatic study	MI:0415	318278	direct interaction	817134	direct interaction	pubmed	19061637	FALSE	318278	817857 (318278) 817134	psi-mi
+276	817857	AT2G32950	6.3.2.19	COP1	Yu JW (2008)	protein complementation assay	MI:0090	318280	direct interaction	817134	direct interaction	pubmed	19061637	FALSE	318280	817857 (318280) 817134	psi-mi
+277	817857	AT2G32950	6.3.2.19	COP1	Hoecker U (2001)	two hybrid	MI:0018	268652	direct interaction	819242	direct interaction	pubmed	11461903	FALSE	268652	817857 (268652) 819242	psi-mi
+278	817857	AT2G32950	6.3.2.19	COP1	Hoecker U (2001)	pull down	MI:0096	268654	direct interaction	819242	direct interaction	pubmed	11461903	FALSE	268654	817857 (268654) 819242	psi-mi
+279	817857	AT2G32950	6.3.2.19	COP1	Saijo Y (2008)	affinity chromatography technology	MI:0004	289212	physical association	819242	physical association	pubmed	18722184	FALSE	289212	817857 (289212) 819242	psi-mi
+280	817857	AT2G32950	6.3.2.19	COP1	Zhu D (2008)	affinity chromatography technology	MI:0004	299896	physical association	819242	physical association	pubmed	18812498	FALSE	299896	817857 (299896) 819242	psi-mi
+281	817857	AT2G32950	6.3.2.19	COP1	Huang X (2013)	affinity chromatography technology	MI:0004	906236	physical association	819242	physical association	pubmed	24067658	FALSE	906236	817857 (906236) 819242	psi-mi
+282	817857	AT2G32950	6.3.2.19	COP1	Gong W (2008)	pull down	MI:0096	1111267	direct interaction	819242	direct interaction	pubmed	19802365	FALSE	1111267	817857 (1111267) 819242	psi-mi
+283	817857	AT2G32950	6.3.2.19	COP1	Lu XD (2015)	two hybrid	MI:0018	1241682	direct interaction	819242	direct interaction	pubmed	25744387	FALSE	1241682	817857 (1241682) 819242	psi-mi
+284	816394	AT2G18790		HY3	Hughes RM (2012)	two hybrid	MI:0018	657510	direct interaction	826470	direct interaction	pubmed	22577138	FALSE	657510	816394 (657510) 826470	psi-mi
+285	816394	AT2G18790		HY3	Mas P (2000)	affinity chromatography technology	MI:0004	268302	physical association	839529	physical association	pubmed	11089975	FALSE	268302	816394 (268302) 839529	psi-mi
+286	816394	AT2G18790		HY3	Mas P (2000)	fluorescent resonance energy transfer	MI:0055	268303	direct interaction	839529	direct interaction	pubmed	11089975	FALSE	268303	816394 (268303) 839529	psi-mi
+287	816394	AT2G18790		HY3	Liu XL (2001)	pull down	MI:0096	265133	direct interaction	817134	direct interaction	pubmed	11402161	FALSE	265133	816394 (265133) 817134	psi-mi
+288	816394	AT2G18790		HY3	Liu XL (2001)	genetic interference	MI:0254	268148	additive genetic interaction defined by inequality	817134	additive genetic interaction defined by inequality	pubmed	11402161	FALSE	268148	816394 (268148) 817134	psi-mi
+289	816394	AT2G18790		HY3	Liu XL (2001)	genetic interference	MI:0254	268150	suppressive genetic interaction defined by inequality	817134	suppressive genetic interaction defined by inequality	pubmed	11402161	FALSE	268150	816394 (268150) 817134	psi-mi
+290	816394	AT2G18790		HY3	Sheerin DJ (2015)	two hybrid	MI:0018	1115930	direct interaction	819242	direct interaction	pubmed	25627066	FALSE	1115930	816394 (1115930) 819242	psi-mi
+291	834983	AT5G49230		HRB1	Kang X (2007)	genetic interference	MI:0254	268131	suppressive genetic interaction defined by inequality	839529	suppressive genetic interaction defined by inequality	pubmed	17916114	FALSE	268131	834983 (268131) 839529	psi-mi
+292	826609	AT4G10180		FUS2	Lau OS (2011)	pull down	MI:0096	560296	direct interaction	839341	direct interaction	pubmed	21884973	FALSE	560296	826609 (560296) 839341	psi-mi
+293	829009	AT4G28880		ckl3	Tan ST (2013)	pull down	MI:0096	884895	direct interaction	839529	direct interaction	pubmed	23897926	FALSE	884895	829009 (884895) 839529	psi-mi
+294	829009	AT4G28880		ckl3	Tan ST (2013)	enzymatic study	MI:0415	884897	direct interaction	839529	direct interaction	pubmed	23897926	FALSE	884897	829009 (884897) 839529	psi-mi
+295	829007	AT4G28860		ckl4	Tan ST (2013)	pull down	MI:0096	884896	direct interaction	839529	direct interaction	pubmed	23897926	FALSE	884896	829007 (884896) 839529	psi-mi
+296	829007	AT4G28860		ckl4	Tan ST (2013)	enzymatic study	MI:0415	884898	direct interaction	839529	direct interaction	pubmed	23897926	FALSE	884898	829007 (884898) 839529	psi-mi
+297	832518	AT5G24470		PRR5	Ito S (2007)	genetic interference	MI:0254	265703	suppressive genetic interaction defined by inequality	839341	suppressive genetic interaction defined by inequality	pubmed	17519251	FALSE	265703	832518 (265703) 839341	psi-mi
+298	832518	AT5G24470		PRR5	Nakamichi N (2007)	genetic interference	MI:0254	265715	additive genetic interaction defined by inequality	839341	additive genetic interaction defined by inequality	pubmed	17504813	FALSE	265715	832518 (265715) 839341	psi-mi
+299	832518	AT5G24470		PRR5	Yasuhara M (2004)	two hybrid	MI:0018	265036	direct interaction	843133	direct interaction	pubmed	15310821	FALSE	265036	832518 (265036) 843133	psi-mi
+300	832518	AT5G24470		PRR5	Ito S (2008)	genetic interference	MI:0254	265689	additive genetic interaction defined by inequality	836259	additive genetic interaction defined by inequality	pubmed	18178585	FALSE	265689	832518 (265689) 836259	psi-mi
+301	832518	AT5G24470		PRR5	Wang L (2010)	pull down	MI:0096	437108	direct interaction	836259	direct interaction	pubmed	20407420	FALSE	437108	832518 (437108) 836259	psi-mi
+302	832518	AT5G24470		PRR5	Wang L (2010)	affinity chromatography technology	MI:0004	437110	physical association	836259	physical association	pubmed	20407420	FALSE	437110	832518 (437110) 836259	psi-mi
+303	831793	AT5G02810		APRR7	Ito S (2007)	genetic interference	MI:0254	265705	suppressive genetic interaction defined by inequality	839341	suppressive genetic interaction defined by inequality	pubmed	17519251	FALSE	265705	831793 (265705) 839341	psi-mi
+304	831793	AT5G02810		APRR7	Nakamichi N (2007)	genetic interference	MI:0254	265717	additive genetic interaction defined by inequality	839341	additive genetic interaction defined by inequality	pubmed	17504813	FALSE	265717	831793 (265717) 839341	psi-mi
+305	831793	AT5G02810		PRR7	Ito S (2007)	genetic interference	MI:0254	265705	suppressive genetic interaction defined by inequality	839341	suppressive genetic interaction defined by inequality	pubmed	17519251	FALSE	265705	831793 (265705) 839341	psi-mi
+306	831793	AT5G02810		PRR7	Nakamichi N (2007)	genetic interference	MI:0254	265717	additive genetic interaction defined by inequality	839341	additive genetic interaction defined by inequality	pubmed	17504813	FALSE	265717	831793 (265717) 839341	psi-mi
+307	821807	AT3G22380		TIC	Ding Z (2007)	genetic interference	MI:0254	265726	additive genetic interaction defined by inequality	838883	additive genetic interaction defined by inequality	pubmed	17496120	FALSE	265726	821807 (265726) 838883	psi-mi
+308	821807	AT3G22380		TIC	Ding Z (2007)	genetic interference	MI:0254	265723	additive genetic interaction defined by inequality	817134	additive genetic interaction defined by inequality	pubmed	17496120	FALSE	265723	821807 (265723) 817134	psi-mi
+309	821807	AT3G22380		TIC	Hall A (2003)	genetic interference	MI:0254	266470	suppressive genetic interaction defined by inequality	817134	suppressive genetic interaction defined by inequality	pubmed	14555691	FALSE	266470	821807 (266470) 817134	psi-mi
+310	821807	AT3G22380		TIC	Ding Z (2007)	genetic interference	MI:0254	265725	additive genetic interaction defined by inequality	836259	additive genetic interaction defined by inequality	pubmed	17496120	FALSE	265725	821807 (265725) 836259	psi-mi
+311	818274	AT2G37000			Giraud E (2010)	two hybrid	MI:0018	482871	direct interaction	839341	direct interaction	pubmed	21183706	FALSE	482871	818274 (482871) 839341	psi-mi
+312	827568	AT4G18390		TCP2	Giraud E (2010)	two hybrid	MI:0018	482878	direct interaction	839341	direct interaction	pubmed	21183706	FALSE	482878	827568 (482878) 839341	psi-mi
+313	835417	AT5G53360		SINAT5	Park BS (2010)	two hybrid	MI:0018	532119	direct interaction	839341	direct interaction	pubmed	20599732	FALSE	532119	835417 (532119) 839341	psi-mi
+314	835417	AT5G53360		SINAT5	Park BS (2010)	enzymatic study	MI:0415	532121	direct interaction	839341	direct interaction	pubmed	20599732	FALSE	532121	835417 (532121) 839341	psi-mi
+315	821781	AT3G22170		FHY3	Li G (2011)	two hybrid	MI:0018	532122	direct interaction	839341	direct interaction	pubmed	21499259	FALSE	532122	821781 (532122) 839341	psi-mi
+316	836538	AT5G64170		LNK1	Xie Q (2014)	protein complementation assay	MI:0090	1173512	direct interaction	839341	direct interaction	pubmed	25012192	FALSE	1173512	836538 (1173512) 839341	psi-mi
+317	824615	AT3G54500		LNK2	Xie Q (2014)	protein complementation assay	MI:0090	1173516	direct interaction	839341	direct interaction	pubmed	25012192	FALSE	1173516	824615 (1173516) 839341	psi-mi
+318	839625	AT1G27360		SPL11	Kim WY (2007)	pull down	MI:0096	265040	direct interaction	838883	direct interaction	pubmed	17704763	FALSE	265040	839625 (265040) 838883	psi-mi
+319	816408	AT2G18915		LKP2	Kim WY (2007)	pull down	MI:0096	265042	direct interaction	838883	direct interaction	pubmed	17704763	FALSE	265042	816408 (265042) 838883	psi-mi
+320	816408	AT2G18915		LKP2	Kim WY (2007)	two hybrid	MI:0018	265045	direct interaction	838883	direct interaction	pubmed	17704763	FALSE	265045	816408 (265045) 838883	psi-mi
+321	816408	AT2G18915		LKP2	Takase T (2011)	two hybrid	MI:0018	533477	direct interaction	843133	direct interaction	pubmed	21518052	FALSE	533477	816408 (533477) 843133	psi-mi
+322	816408	AT2G18915		LKP2	Takase T (2011)	affinity chromatography technology	MI:0004	533479	physical association	843133	physical association	pubmed	21518052	FALSE	533479	816408 (533479) 843133	psi-mi
+323	816408	AT2G18915		LKP2	Yasuhara M (2004)	two hybrid	MI:0018	265030	direct interaction	843133	direct interaction	pubmed	15310821	FALSE	265030	816408 (265030) 843133	psi-mi
+324	816408	AT2G18915		LKP2	Baudry A (2010)	pull down	MI:0096	435191	direct interaction	836259	direct interaction	pubmed	20354196	FALSE	435191	816408 (435191) 836259	psi-mi
+325	820327	AT3G11540		SPY	Tseng TS (2004)	two hybrid	MI:0018	265099	direct interaction	838883	direct interaction	pubmed	15155885	FALSE	265099	820327 (265099) 838883	psi-mi
+326	820327	AT3G11540		SPY	Tseng TS (2004)	pull down	MI:0096	265100	direct interaction	838883	direct interaction	pubmed	15155885	FALSE	265100	820327 (265100) 838883	psi-mi
+327	831441	AT5G15840		BBX1	Mizoguchi T (2005)	genetic interference	MI:0254	265665	synthetic genetic interaction defined by inequality	838883	synthetic genetic interaction defined by inequality	pubmed	16006578	FALSE	265665	831441 (265665) 838883	psi-mi
+328	831441	AT5G15840		BBX1	Song YH (2014)	affinity chromatography technology	MI:0004	1241613	physical association	838883	physical association	pubmed	25422419	FALSE	1241613	831441 (1241613) 838883	psi-mi
+329	831441	AT5G15840		BBX1	Song YH (2014)	two hybrid	MI:0018	1241615	direct interaction	838883	direct interaction	pubmed	25422419	FALSE	1241615	831441 (1241615) 838883	psi-mi
+330	831441	AT5G15840		BBX1	Song YH (2014)	affinity chromatography technology	MI:0004	1241614	physical association	843133	physical association	pubmed	25422419	FALSE	1241614	831441 (1241614) 843133	psi-mi
+331	831441	AT5G15840		BBX1	Song YH (2012)	affinity chromatography technology	MI:0004	666039	physical association	843133	physical association	pubmed	22628657	FALSE	666039	831441 (666039) 843133	psi-mi
+332	831441	AT5G15840		BBX1	Kim WY (2005)	genetic interference	MI:0254	268146	suppressive genetic interaction defined by inequality	817134	suppressive genetic interaction defined by inequality	pubmed	16258016	FALSE	268146	831441 (268146) 817134	psi-mi
+333	842859	AT1G65480		FT	Mizoguchi T (2005)	genetic interference	MI:0254	265666	synthetic genetic interaction defined by inequality	838883	synthetic genetic interaction defined by inequality	pubmed	16006578	FALSE	265666	842859 (265666) 838883	psi-mi
+334	819383	AT2G47700		RFI2	Chen M (2006)	genetic interference	MI:0254	265668	suppressive genetic interaction defined by inequality	838883	suppressive genetic interaction defined by inequality	pubmed	16709197	FALSE	265668	819383 (265668) 838883	psi-mi
+335	819383	AT2G47700		RFI2	Chen M (2006)	genetic interference	MI:0254	265670	additive genetic interaction defined by inequality	838883	additive genetic interaction defined by inequality	pubmed	16709197	FALSE	265670	819383 (265670) 838883	psi-mi
+336	833502	AT5G35410		CIPK24	Kim WY (2013)	pull down	MI:0096	802376	direct interaction	838883	direct interaction	pubmed	23322040	FALSE	802376	833502 (802376) 838883	psi-mi
+337	833502	AT5G35410		SOS2	Kim WY (2013)	pull down	MI:0096	802376	direct interaction	838883	direct interaction	pubmed	23322040	FALSE	802376	833502 (802376) 838883	psi-mi
+338	832494	AT5G24270		SOS3	Kim WY (2013)	pull down	MI:0096	802377	direct interaction	838883	direct interaction	pubmed	23322040	FALSE	802377	832494 (802377) 838883	psi-mi
+339	844165	AT1G78300		GRF2	Chang IF (2009)	affinity chromatography technology	MI:0004	1107176	physical association	838883	physical association	pubmed	19452453	FALSE	1107176	844165 (1107176) 838883	psi-mi
+340	843028	AT1G67080		ABA4	Galka MM (2015)	affinity chromatography technology	MI:0004	1428758	physical association	838883	physical association	pubmed	26197050	FALSE	1428758	843028 (1428758) 838883	psi-mi
+341	834224	AT5G42190		ASK2	Takahashi N (2004)	two hybrid	MI:0018	266457	direct interaction	843133	direct interaction	pubmed	14749489	FALSE	266457	834224 (266457) 843133	psi-mi
+342	817111	AT2G25700		SK3	Takahashi N (2004)	two hybrid	MI:0018	266459	direct interaction	843133	direct interaction	pubmed	14749489	FALSE	266459	817111 (266459) 843133	psi-mi
+343	817403	AT2G28550		TOE1	Zhang B (2015)	two hybrid	MI:0018	1526470	direct interaction	843133	direct interaction	pubmed	25934507	FALSE	1526470	817403 (1526470) 843133	psi-mi
+344	817403	AT2G28550		TOE1	Zhang B (2015)	fluorescent resonance energy transfer	MI:0055	1526471	direct interaction	843133	direct interaction	pubmed	25934507	FALSE	1526471	817403 (1526471) 843133	psi-mi
+345	818596	AT2G40080		ELF4	Nusinow DA (2011)	two hybrid	MI:0018	545584	direct interaction	817134	direct interaction	pubmed	21753751	FALSE	545584	818596 (545584) 817134	psi-mi
+346	818596	AT2G40080		ELF4	Huang H (2016)	affinity chromatography technology	MI:0004	1507098	physical association	817134	physical association	pubmed	26545401	FALSE	1507098	818596 (1507098) 817134	psi-mi
+347	818596	AT2G40080		ELF4	Huang H (2016)	two hybrid	MI:0018	1507145	direct interaction	817134	direct interaction	pubmed	26545401	FALSE	1507145	818596 (1507145) 817134	psi-mi
+348	818596	AT2G40080		ELF4	Huang H (2016)	affinity chromatography technology	MI:0004	1507131	physical association	836259	physical association	pubmed	26545401	FALSE	1507131	818596 (1507131) 836259	psi-mi
+349	818596	AT2G40080		ELF4	Huang H (2016)	affinity chromatography technology	MI:0004	1507138	physical association	819242	physical association	pubmed	26545401	FALSE	1507138	818596 (1507138) 819242	psi-mi
+350	823817	AT3G46640		PCL1	Nusinow DA (2011)	two hybrid	MI:0018	545586	direct interaction	817134	direct interaction	pubmed	21753751	FALSE	545586	823817 (545586) 817134	psi-mi
+351	820069	AT3G09150	1.3.7.4	HY2	Zagotta MT (1996)	genetic interference	MI:0254	268152	additive genetic interaction defined by inequality	817134	additive genetic interaction defined by inequality	pubmed	8893545	FALSE	268152	820069 (268152) 817134	psi-mi
+352	816133	AT2G16365		PCH1	Huang H (2016)	affinity chromatography technology	MI:0004	1507091	physical association	817134	physical association	pubmed	26839287	FALSE	1507091	816133 (1507091) 817134	psi-mi
+353	816133	AT2G16365		PCH1	Huang H (2016)	affinity chromatography technology	MI:0004	1507090	physical association	819242	physical association	pubmed	26839287	FALSE	1507090	816133 (1507090) 819242	psi-mi
+354	826712	AT4G11110		SPA2	Zhu D (2008)	pull down	MI:0096	299867	direct interaction	819242	direct interaction	pubmed	18812498	FALSE	299867	826712 (299867) 819242	psi-mi
+355	820767	AT3G15354	6.3.2.19	SPA3	Zhu D (2008)	pull down	MI:0096	299871	direct interaction	819242	direct interaction	pubmed	18812498	FALSE	299871	820767 (299871) 819242	psi-mi
+356	820767	AT3G15354	6.3.2.19	SPA3	Zhu D (2008)	affinity chromatography technology	MI:0004	299888	physical association	819242	physical association	pubmed	18812498	FALSE	299888	820767 (299888) 819242	psi-mi
+357	830051	AT4G38960		BBX19	Wang CQ (2015)	two hybrid	MI:0018	1278162	direct interaction	817134	direct interaction	pubmed	25841036	FALSE	1278162	830051 (1278162) 817134	psi-mi
+358	830051	AT4G38960		BBX19	Wang CQ (2015)	fluorescent resonance energy transfer	MI:0055	1278164	direct interaction	817134	direct interaction	pubmed	25841036	FALSE	1278164	830051 (1278164) 817134	psi-mi
+359	830051	AT4G38960		BBX19	Wang CQ (2015)	affinity chromatography technology	MI:0004	1278165	physical association	817134	physical association	pubmed	25841036	FALSE	1278165	830051 (1278165) 817134	psi-mi
+360	822061	AT3G24650		ABI3	Kurup S (2000)	two hybrid	MI:0018	334135	direct interaction	836259	direct interaction	pubmed	10743655	FALSE	334135	822061 (334135) 836259	psi-mi
+361	830450	AT5G05660		ATNFXL2	Johansson M (2011)	affinity chromatography technology	MI:0004	518255	physical association	836259	physical association	pubmed	21300918	FALSE	518255	830450 (518255) 836259	psi-mi
+362	819292	AT2G46790		PRR9	Ito S (2003)	two hybrid	MI:0018	265019	direct interaction	836259	direct interaction	pubmed	14634162	FALSE	265019	819292 (265019) 836259	psi-mi
+363	819292	AT2G46790		PRR9	Wang L (2010)	pull down	MI:0096	437109	direct interaction	836259	direct interaction	pubmed	20407420	FALSE	437109	819292 (437109) 836259	psi-mi
+364	836132	AT5G60100		APRR3	Para A (2007)	two hybrid	MI:0018	265037	direct interaction	836259	direct interaction	pubmed	18055606	FALSE	265037	836132 (265037) 836259	psi-mi
+365	836132	AT5G60100		PRR3	Para A (2007)	two hybrid	MI:0018	265037	direct interaction	836259	direct interaction	pubmed	18055606	FALSE	265037	836132 (265037) 836259	psi-mi
+366	819311	AT2G46970		PIL1	Makino S (2002)	pull down	MI:0096	265092	direct interaction	836259	direct interaction	pubmed	11828023	FALSE	265092	819311 (265092) 836259	psi-mi
+367	839300	AT1G02340		FBI1	Yang J (2005)	two hybrid	MI:0018	268469	direct interaction	819242	direct interaction	pubmed	15960622	FALSE	268469	839300 (268469) 819242	psi-mi
+368	839300	AT1G02340		FBI1	Yang J (2005)	pull down	MI:0096	268470	direct interaction	819242	direct interaction	pubmed	15960622	FALSE	268470	839300 (268470) 819242	psi-mi
+369	832624	AT5G25490			Braun P (2011)	two hybrid	MI:0018	596477	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	596477	832624 (596477) 836259	psi-mi
+370	843037	AT1G67170		FLL2	Braun P (2011)	two hybrid	MI:0018	596847	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	596847	843037 (596847) 836259	psi-mi
+371	819864	AT3G06790		MORF3	Braun P (2011)	two hybrid	MI:0018	597961	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	597961	819864 (597961) 836259	psi-mi
+372	838681	AT1G20880			Braun P (2011)	two hybrid	MI:0018	599004	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	599004	838681 (599004) 836259	psi-mi
+373	817905	AT2G33410		RBGD2	Braun P (2011)	two hybrid	MI:0018	599155	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	599155	817905 (599155) 836259	psi-mi
+374	819817	AT3G06430		PPR2	Braun P (2011)	two hybrid	MI:0018	599836	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	599836	819817 (599836) 836259	psi-mi
+375	830401	AT5G05190		EDR4	Braun P (2011)	two hybrid	MI:0018	599848	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	599848	830401 (599848) 836259	psi-mi
+376	820954	AT3G16980		NRPE9A	Braun P (2011)	two hybrid	MI:0018	600130	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	600130	820954 (600130) 836259	psi-mi
+377	837708	AT1G11650		RBP45B	Braun P (2011)	two hybrid	MI:0018	596073	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	596073	837708 (596073) 836259	psi-mi
+378	840240	AT1G33470			Braun P (2011)	two hybrid	MI:0018	596100	direct interaction	836259	direct interaction	pubmed	21798944	FALSE	596100	840240 (596100) 836259	psi-mi
+379	825890	AT4G05420		DDB1A	Chen H (2010)	pull down	MI:0096	354015	direct interaction	819242	direct interaction	pubmed	20061554	FALSE	354015	825890 (354015) 819242	psi-mi
+380	827857	AT4G21100		DDB1B	Chen H (2010)	pull down	MI:0096	354020	direct interaction	819242	direct interaction	pubmed	20061554	FALSE	354020	827857 (354020) 819242	psi-mi
+381	827857	AT4G21100		DDB1B	Chen H (2010)	affinity chromatography technology	MI:0004	354025	physical association	819242	physical association	pubmed	20061554	FALSE	354025	827857 (354025) 819242	psi-mi
+382	827857	AT4G21100		DDB1B	Huang X (2013)	affinity chromatography technology	MI:0004	906230	physical association	819242	physical association	pubmed	24067658	FALSE	906230	827857 (906230) 819242	psi-mi
+383	841743	AT1G53090		SPA4	Zhu D (2008)	pull down	MI:0096	299875	direct interaction	819242	direct interaction	pubmed	18812498	FALSE	299875	841743 (299875) 819242	psi-mi
+384	841743	AT1G53090		SPA4	Zhu D (2008)	affinity chromatography technology	MI:0004	299892	physical association	819242	physical association	pubmed	18812498	FALSE	299892	841743 (299892) 819242	psi-mi
+385	842957	AT1G66390		MYB90	Maier A (2013)	two hybrid	MI:0018	823491	direct interaction	819242	direct interaction	pubmed	23425305	FALSE	823491	842957 (823491) 819242	psi-mi
+386	842957	AT1G66390		MYB90	Maier A (2013)	affinity chromatography technology	MI:0004	823501	physical association	819242	physical association	pubmed	23425305	FALSE	823501	842957 (823501) 819242	psi-mi

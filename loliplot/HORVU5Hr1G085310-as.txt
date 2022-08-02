@@ -1,0 +1,6 @@
+chr5H	ibsc	gene	574587543	574589979	.	-	.	ID=gene:HORVU5Hr1G085310;biotype=protein_coding;description=Glycosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:F2CPU0];gene_id=HORVU5Hr1G085310;logic_name=ibsc
+chr5H	ibsc	mRNA	574587543	574589979	.	-	.	ID=transcript:HORVU5Hr1G085310.1;Parent=gene:HORVU5Hr1G085310;biotype=protein_coding;transcript_id=HORVU5Hr1G085310.1
+chr5H	ibsc	three_prime_UTR	574587543	574588091	.	-	.	Parent=transcript:HORVU5Hr1G085310.1
+chr5H	ibsc	exon	574587543	574589979	.	-	.	Parent=transcript:HORVU5Hr1G085310.1;Name=HORVU5Hr1G085310-E1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=HORVU5Hr1G085310-E1;rank=1
+chr5H	ibsc	CDS	574588092	574589567	.	-	0	ID=CDS:HORVU5Hr1G085310.1;Parent=transcript:HORVU5Hr1G085310.1;protein_id=HORVU5Hr1G085310.1
+chr5H	ibsc	five_prime_UTR	574589568	574589979	.	-	.	Parent=transcript:HORVU5Hr1G085310.1

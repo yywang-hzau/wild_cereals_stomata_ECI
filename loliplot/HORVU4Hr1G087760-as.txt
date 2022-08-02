@@ -1,0 +1,6 @@
+schr4H	ibsc	gene	638201783	638202868	.	+	.	ID=gene:HORVU4Hr1G087760;biotype=protein_coding;gene_id=HORVU4Hr1G087760;logic_name=ibsc
+chr4H	ibsc	mRNA	638201783	638202868	.	+	.	ID=transcript:HORVU4Hr1G087760.1;Parent=gene:HORVU4Hr1G087760;biotype=protein_coding;transcript_id=HORVU4Hr1G087760.1
+chr4H	ibsc	five_prime_UTR	638201783	638201937	.	+	.	Parent=transcript:HORVU4Hr1G087760.1
+chr4H	ibsc	exon	638201783	638202868	.	+	.	Parent=transcript:HORVU4Hr1G087760.1;Name=HORVU4Hr1G087760-E1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=HORVU4Hr1G087760-E1;rank=1
+chr4H	ibsc	CDS	638201938	638202378	.	+	0	ID=CDS:HORVU4Hr1G087760.1;Parent=transcript:HORVU4Hr1G087760.1;protein_id=HORVU4Hr1G087760.1
+chr4H	ibsc	three_prime_UTR	638202379	638202868	.	+	.	Parent=transcript:HORVU4Hr1G087760.1

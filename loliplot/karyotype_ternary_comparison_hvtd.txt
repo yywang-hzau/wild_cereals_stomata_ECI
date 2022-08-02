@@ -1,0 +1,4 @@
+Chr	Start	End	fill	species	size	color
+chr2H	1	768075024	0ab276	Hs2H	10	0ab276
+chr2A	1	784000000	e64e60	Td_2A	10	e64e60
+chr2B	1	812000000	0080cc	Td_2B	10	0080cc

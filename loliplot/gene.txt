@@ -1,0 +1,4 @@
+Type	Shape	Chr	Start	End	color
+NPQ4	box	chr3H	600262542	600275064	ff7f00
+DRN1	circle	chr4H	638201783	638202868	ff7f00
+BRH1	triangle	chr6H	456267166	456269916	ff7f00

@@ -1,0 +1,9 @@
+SNPGenie parameter log.
+
+MINIMUM ALLELE FREQUENCY: Default used; all SNPs included
+SLIDING WINDOW LENGTH: None
+MULTI-FASTA MODE: Default used; No
+SNP REPORTS: User submitted file: Chr01_revcom.vcf
+REFERENCE FASTA FILE: User submitted file: Chr01_revcom.fasta
+GTF FILE: User submitted file: target_Chr01_revcom.gtf
+COMPLEMENT MODE: Yes
